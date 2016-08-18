@@ -1,0 +1,44 @@
+/* Automatically generated from: FreeMonoOblique.woff 0.0 */
+
+@font-face {
+	font-family: "FreeMono";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FreeMonoOblique") */
+		/* local("FreeMono Oblique") */
+		url("FreeMonoOblique.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-220, U+224-233, U+237,
+		U+250-36F, U+374-375, U+37A, U+37E,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3CE,
+		U+3D0-3D6, U+3DA-3DD, U+3F0-3F1, U+3F4-3F5,
+		U+400-47F, U+483-487, U+48A-4F9, U+510-513,
+		U+51A-51F, U+531-556, U+559-55F, U+561-587,
+		U+589-58A, U+58F, U+5B0-5B9, U+5BB-5C4,
+		U+5D0-5EA, U+5F0-5F4, U+10D0-10F5, U+10F9,
+		U+10FB-10FC, U+1E00-1E9B, U+1EA0-1EF9, U+1F00-1F15,
+		U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57,
+		U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D,
+		U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB,
+		U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-2064,
+		U+2070-2071, U+2074-208E, U+2090-2094, U+20A1-20B5,
+		U+20B8-20B9, U+2100-2109, U+210D-211A, U+211C-211E,
+		U+2120-2122, U+2124, U+2126-2127, U+2129-212B,
+		U+212E, U+2132, U+2135-213B, U+2141-2144,
+		U+214B, U+214D-214E, U+2153-217F, U+2190-2199,
+		U+21A4-21AA, U+21B4-21B5, U+21BC-21C4, U+21C6,
+		U+21CB-21CC, U+21D0-21D5, U+21DC-21DD, U+2200-2220,
+		U+2223-2226, U+2229-222C, U+2234-2237, U+223C,
+		U+2241-2243, U+2245, U+2248, U+2260-2261,
+		U+2264-2265, U+2282-2287, U+22A5, U+22C2-22C3,
+		U+22C5, U+2310, U+2322-2323, U+2329-232A,
+		U+2423, U+25CA-25CB, U+25EF, U+2660-2667,
+		U+2669-266F, U+2E16-2E18, U+2E1A-2E1B, U+2E1E-2E1F,
+		U+2E28-2E2E, U+A788-A78C, U+FB00-FB02, U+FB1D-FB36,
+		U+FB38-FB3C, U+FB3E, U+FB40-FB41, U+FB43-FB44,
+		U+FB46-FB4F, U+FFF9-FFFD;
+}

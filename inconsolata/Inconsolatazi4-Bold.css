@@ -1,0 +1,25 @@
+/* Automatically generated from: Inconsolatazi4-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "Inconsolatazi4";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Inconsolatazi4-Bold") */
+		/* local("Inconsolata zi4 Bold") */
+		url("Inconsolatazi4-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+8E, U+9E, U+A0-FF,
+		U+102-107, U+10C-111, U+118-11B, U+11E-11F,
+		U+130-131, U+138-13A, U+13D-13E, U+141-144,
+		U+147-148, U+14A-14B, U+14D, U+150-155,
+		U+158-15B, U+15E-165, U+16E-171, U+178-17E,
+		U+192, U+237, U+2BC, U+2C6-2C7,
+		U+2C9, U+2CB, U+2D8-2DD, U+2018-201A,
+		U+201C-201E, U+2020-2022, U+2026, U+2039-203A,
+		U+2044, U+2074, U+20AC, U+2122,
+		U+2190-2193, U+2212, U+2423, U+F40A;
+}

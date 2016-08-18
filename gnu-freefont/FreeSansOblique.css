@@ -1,0 +1,47 @@
+/* Automatically generated from: FreeSansOblique.woff 0.0 */
+
+@font-face {
+	font-family: "FreeSans";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FreeSansOblique") */
+		/* local("FreeSans Oblique") */
+		url("FreeSansOblique.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-1BB, U+1BE-1F5, U+1F7-21F,
+		U+224-233, U+237, U+250-36F, U+374-375,
+		U+37A, U+37E, U+384-38A, U+38C,
+		U+38E-3A1, U+3A3-3CE, U+3D1-3D7, U+3F0-3F1,
+		U+3F4-3F5, U+400-461, U+470-473, U+47C-47F,
+		U+482-4F9, U+510-513, U+51A-51F, U+531-556,
+		U+559-55F, U+561-587, U+589-58A, U+58F,
+		U+5B0-5B9, U+5BB-5C4, U+5D0-5EA, U+5F0-5F4,
+		U+981-983, U+985-98C, U+98F-990, U+993-9A8,
+		U+9AA-9B0, U+9B2, U+9B6-9B9, U+9BC-9C4,
+		U+9C7-9C8, U+9CB-9CE, U+9D7, U+9DC-9DD,
+		U+9DF-9E3, U+9E6-9FB, U+10A0-10C0, U+10D0-10F5,
+		U+10F9, U+10FB-10FC, U+13A0-13F4, U+1E00-1E9B,
+		U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45,
+		U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B,
+		U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4,
+		U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4,
+		U+1FF6-1FFE, U+2000-2064, U+2070-2071, U+2074-208E,
+		U+2090-2094, U+20A0-20B5, U+20B8-20B9, U+20D0-20E1,
+		U+20E4-20F0, U+2100-2109, U+210B-2124, U+2126-2133,
+		U+2135-213C, U+213E-213F, U+2141-2144, U+214A-214B,
+		U+214D-214E, U+2153-217F, U+2190-2199, U+21A4-21A7,
+		U+21A9-21AA, U+21B4-21B5, U+21BC-21CC, U+21D0-21D5,
+		U+21DC-21DD, U+2200-222D, U+2234-223C, U+2242-2243,
+		U+2245, U+2248, U+224A-224B, U+2260-2261,
+		U+2264-2265, U+2300, U+2310, U+2322-2323,
+		U+2329-232A, U+2423, U+25CA-25CB, U+25E6,
+		U+25EF, U+2660-2667, U+2669-266F, U+2D30-2D65,
+		U+2D6F, U+2E16-2E18, U+2E1A-2E1B, U+2E1E-2E1F,
+		U+2E28-2E2E, U+A788-A78C, U+A7AA, U+FB00-FB05,
+		U+FB13-FB17, U+FB1D-FB36, U+FB38-FB3C, U+FB3E,
+		U+FB40-FB41, U+FB43-FB44, U+FB46-FB4F, U+FFF9-FFFD;
+}

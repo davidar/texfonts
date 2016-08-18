@@ -1,0 +1,22 @@
+/* Automatically generated from: drmmi10.woff 0.0 */
+
+@font-face {
+	font-family: "drmmi10";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("drmmi10") */
+		url("drmmi10.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-26, U+28-7E, U+A1, U+A3,
+		U+A7-A8, U+AB, U+AD, U+AF,
+		U+B4, U+B8, U+BB, U+BF,
+		U+C6, U+D0, U+D8, U+DE-DF,
+		U+E6, U+F0, U+F8, U+FE,
+		U+131, U+14A-14B, U+152-153, U+237,
+		U+2C6-2C7, U+2D8-2DD, U+2013-2014, U+2018-201A,
+		U+201C-201E, U+2030, U+2039-203A, U+FB00-FB04;
+}

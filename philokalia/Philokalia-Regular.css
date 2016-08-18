@@ -1,0 +1,27 @@
+/* Automatically generated from: Philokalia-Regular.woff 0.0 */
+
+@font-face {
+	font-family: "Philokalia";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Philokalia-Regular") */
+		/* local("Philokalia Regular") */
+		url("Philokalia-Regular.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-21, U+28-2A, U+2C-2E, U+30-3C,
+		U+3E, U+5B, U+5D, U+AB,
+		U+BB, U+161-18E, U+374-375, U+37A,
+		U+37E, U+384-38A, U+38C, U+38E-3A1,
+		U+3A3-3CE, U+3D7, U+3DA, U+3DF,
+		U+3E1, U+1EE7, U+1F00-1F15, U+1F18-1F1D,
+		U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59,
+		U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FAF,
+		U+1FB2-1FB4, U+1FB6-1FB7, U+1FBA-1FC4, U+1FC6-1FCF,
+		U+1FD2-1FD3, U+1FD6-1FD7, U+1FDA-1FDB, U+1FDD-1FDF,
+		U+1FE2-1FE7, U+1FEA-1FEF, U+1FF2-1FF4, U+1FF6-1FFE,
+		U+2010, U+2012-2014;
+}

@@ -1,0 +1,45 @@
+/* Automatically generated from: FiraCode-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "Fira Code";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FiraCode-Bold") */
+		/* local("Fira Code Bold") */
+		url("FiraCode-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+D, U+20-7E, U+A0-17E, U+192,
+		U+1FC-1FF, U+218-21B, U+237, U+2B9-2BA,
+		U+2BC, U+2C6-2C7, U+2C9, U+2D8-2DD,
+		U+300-304, U+306-308, U+30A-30C, U+30F,
+		U+313-314, U+326-327, U+335-336, U+342,
+		U+345, U+370-377, U+37A-37F, U+384-38A,
+		U+38C, U+38E-3A1, U+3A3-3E1, U+3F0-479,
+		U+48A-52F, U+1E80-1E85, U+1EF2-1EF3, U+1F00-1F15,
+		U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57,
+		U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D,
+		U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB,
+		U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2007-2008,
+		U+200B, U+2012-2015, U+2017-201A, U+201C-201E,
+		U+2020-2022, U+2026, U+2030, U+2039-203A,
+		U+2044, U+204A, U+2070, U+2074-208E,
+		U+20AC, U+20AF, U+20B9-20BA, U+20BD,
+		U+2113, U+2116, U+2122, U+212E,
+		U+2153-215F, U+218A-218B, U+2190-2199, U+21E6-21EA,
+		U+2202, U+220F, U+2211-2212, U+2215,
+		U+2219-221A, U+221E, U+2229, U+222B,
+		U+2248, U+2260-2261, U+2264-2265, U+2302,
+		U+2310, U+2320-2321, U+2326-2328, U+232B,
+		U+23CE, U+2500-2503, U+250C-256C, U+2571-25A3,
+		U+25AA-25AF, U+25B2, U+25BA, U+25BC,
+		U+25C4, U+25C6-25C7, U+25C9-25CB, U+25CE-25D3,
+		U+25D5-25D7, U+25D9-25E5, U+25E7-25EB, U+25EF-25F7,
+		U+2620, U+2639-263C, U+2640, U+2642,
+		U+2660, U+2663, U+2665-2666, U+266A-266B,
+		U+27A1, U+2B05-2B07, U+E000-E003, U+E0A0-E0A2,
+		U+E0B0-E0B3, U+FEFF;
+}

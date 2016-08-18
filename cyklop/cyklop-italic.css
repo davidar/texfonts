@@ -1,0 +1,43 @@
+/* Automatically generated from: cyklop-italic.woff 0.0 */
+
+@font-face {
+	font-family: "Cyklop";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Cyklop-Italic") */
+		/* local("Cyklop Italic") */
+		url("cyklop-italic.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-AC, U+AE-137, U+139-148,
+		U+14A-165, U+168-17E, U+192, U+1A0-1A1,
+		U+1AF-1B0, U+1E6-1E7, U+1EA-1EB, U+1F4-1F5,
+		U+1FA-201, U+204-205, U+208-209, U+20C-20D,
+		U+210-211, U+214-215, U+218-21B, U+2B0,
+		U+2B7-2B8, U+2C6-2C7, U+2D8-2DD, U+2E3,
+		U+1E0C-1E0D, U+1E24-1E25, U+1E36-1E39, U+1E42-1E47,
+		U+1E58-1E5D, U+1E6C-1E6D, U+1E80-1E85, U+1EA0-1EF9,
+		U+2013-2014, U+2016, U+2018-201A, U+201C-201E,
+		U+2020-2022, U+2026, U+2030, U+2039-203A,
+		U+2044-2046, U+2070, U+2074-2079, U+207D-2089,
+		U+208D-208E, U+20AC, U+2103, U+2116-2117,
+		U+2120, U+2122, U+2212-2213, U+2215,
+		U+2222, U+2260, U+2264-2265, U+2300,
+		U+2329-232A, U+25E6, U+27E6-27E7, U+E000-E00C,
+		U+E00E-E011, U+E013-E014, U+E017-E023, U+E027-E02C,
+		U+E02E-E041, U+E043, U+E045, U+E04A-E056,
+		U+E803, U+EA04, U+EA09, U+EA0B,
+		U+EA0D, U+EA10, U+EA17, U+EA1A,
+		U+EA1C, U+EA1E-EA1F, U+EA26, U+EA33,
+		U+EA40, U+EB03-EB04, U+EB08, U+EB16,
+		U+EB19, U+EB1B, U+EB1E-EB1F, U+EB28,
+		U+EB30-EB31, U+EB35-EB36, U+EB3A-EB3B, U+EB48-EB49,
+		U+EB67, U+EB6B, U+F639-F641, U+F643-F64C,
+		U+F655-F65E, U+F661-F66A, U+F66D-F675, U+F677-F69B,
+		U+F69D-F6AD, U+F6BE, U+F6DC, U+F6DE,
+		U+F6E1-F6E2, U+F6E5-F6F3, U+F730-F739, U+F761-F77A,
+		U+F7E0-F7F6, U+F7F8-F7FF, U+F900-F91E, U+FB00-FB04;
+}

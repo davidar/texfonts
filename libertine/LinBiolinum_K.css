@@ -1,0 +1,35 @@
+/* Automatically generated from: LinBiolinum_K.woff 0.0 */
+
+@font-face {
+	font-family: "Linux Biolinum Keyboard O";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("LinBiolinumOKb") */
+		/* local("Linux Biolinum Keyboard O") */
+		url("LinBiolinum_K.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+A1-A8, U+AB, U+AD,
+		U+B0-B1, U+B4-B5, U+B7-B8, U+BB,
+		U+C0-C5, U+C7-149, U+14C-151, U+154-17E,
+		U+2B0-2E4, U+2EC-2EE, U+300-331, U+338,
+		U+342-343, U+351, U+357-363, U+374-375,
+		U+5B0-5C3, U+5C6, U+5D0-5EA, U+5F0-5F2,
+		U+2190-219B, U+21A5, U+21A7, U+21BC-21BD,
+		U+21C0-21C1, U+21D0-21D9, U+2318, U+2325-2327,
+		U+232B, U+237D, U+2380, U+2423,
+		U+25A0-25A1, U+25B2-25B3, U+25B6-25B7, U+25BC-25BD,
+		U+25C0-25C1, U+25C6-25C7, U+25C9-25CB, U+25CE-25D7,
+		U+25E6, U+2605, U+2619, U+261B,
+		U+261E, U+2627, U+262F, U+2639-2653,
+		U+2660, U+2663, U+2665-2666, U+2669-266C,
+		U+2695, U+2698, U+26A2-26A5, U+26AD,
+		U+2767, U+2776-277F, U+E000, U+E104,
+		U+E128-E12A, U+E130-E135, U+E138-E13A, U+E13C-E13D,
+		U+E168, U+E16E, U+E170-E18C, U+E18E,
+		U+E190-E196, U+E198-E19B, U+E1A0-E1AE, U+E1B0-E1B1,
+		U+E358-E363, U+FFFD;
+}

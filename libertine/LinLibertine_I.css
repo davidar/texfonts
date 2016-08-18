@@ -1,0 +1,27 @@
+/* Automatically generated from: LinLibertine_I.woff 0.0 */
+
+@font-face {
+	font-family: "Linux Libertine Initials O";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("LinLibertineIO") */
+		/* local("Linux Libertine Initials O") */
+		url("LinLibertine_I.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+30-39, U+41-5A, U+5E,
+		U+C4-C7, U+D6, U+D8, U+DC,
+		U+DE, U+12F, U+132, U+14A,
+		U+150, U+152, U+170, U+391-3A1,
+		U+3A3-3AA, U+3D2, U+402, U+404-42F,
+		U+5C6, U+5D0-5EA, U+5F0-5F4, U+1E9E,
+		U+2160-216F, U+24B6-24BC, U+24BE-24C8, U+24CA-24CF,
+		U+E000-E00E, U+E010-E019, U+E02F, U+E040-E042,
+		U+E050-E06B, U+E06D, U+E074, U+E076,
+		U+E086-E087, U+E08E, U+E090, U+E092-E093,
+		U+E0A4-E0A5, U+E0AE, U+E104-E107, U+E138,
+		U+E35D, U+E360-E362, U+E420, U+FFFD;
+}

@@ -1,0 +1,16 @@
+/* Automatically generated from: FandolBraille-Regular.woff 0.0 */
+
+@font-face {
+	font-family: "Fandol Braille";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FandolBraille-Regular") */
+		/* local("Fandol Braille Regular") */
+		url("FandolBraille-Regular.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+2800-28FF;
+}

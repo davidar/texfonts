@@ -1,0 +1,16 @@
+/* Automatically generated from: SkakNew-Figurine.woff 0.0 */
+
+@font-face {
+	font-family: "SkakNew-Figurine";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("SkakNew-Figurine") */
+		url("SkakNew-Figurine.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+2B, U+2D, U+41-56,
+		U+58, U+61-79;
+}

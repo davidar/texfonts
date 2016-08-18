@@ -1,0 +1,16 @@
+/* Automatically generated from: ccicons.woff 0.0 */
+
+@font-face {
+	font-family: "CCIcons";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("CCIcons") */
+		url("ccicons.woff");
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+61-65, U+6D-6E, U+70, U+72-73,
+		U+79-7A, U+A9;
+}

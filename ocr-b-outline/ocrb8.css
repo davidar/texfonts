@@ -1,0 +1,22 @@
+/* Automatically generated from: ocrb8.woff 0.0 */
+
+@font-face {
+	font-family: "ocrb8";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("ocrb8") */
+		url("ocrb8.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-26, U+28-7E, U+A8, U+AB,
+		U+AD, U+AF, U+B4, U+B8,
+		U+BB, U+102, U+104, U+106,
+		U+10C, U+10E, U+118, U+11A,
+		U+11E, U+131, U+139, U+13D,
+		U+2C6-2C7, U+2D8-2DD, U+2013-2014, U+2018-201A,
+		U+201C-201E, U+2030, U+2039-203A, U+F6BE,
+		U+FB00-FB04;
+}

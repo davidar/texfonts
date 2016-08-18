@@ -1,0 +1,26 @@
+/* Automatically generated from: GFSPolyglot.woff 0.0 */
+
+@font-face {
+	font-family: "GFS Complutum";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("GFSComplutum-Regular") */
+		/* local("GFSComplutumClassic-Regular") */
+		url("GFSPolyglot.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-21, U+27-2F, U+3A-3E, U+5B-5D,
+		U+5F, U+7C, U+AB, U+B5,
+		U+B7, U+BB, U+300-301, U+303-304,
+		U+306, U+308-309, U+374-375, U+37A,
+		U+37E, U+384-38A, U+38C, U+38E-3A1,
+		U+3A3-3CE, U+3D6, U+3DA, U+1F00-1F15,
+		U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57,
+		U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D,
+		U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB,
+		U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2013-2015,
+		U+2018-2019, U+201C-201D, U+2126, U+2206;
+}

@@ -1,0 +1,16 @@
+/* Automatically generated from: drmdozitsc14.woff 0.0 */
+
+@font-face {
+	font-family: "drmdozitsc14";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("drmdozitsc14") */
+		url("drmdozitsc14.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+41-5A, U+5F, U+C6, U+D0,
+		U+D8, U+DE, U+14A, U+152;
+}

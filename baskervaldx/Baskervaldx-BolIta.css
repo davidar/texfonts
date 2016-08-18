@@ -1,0 +1,29 @@
+/* Automatically generated from: Baskervaldx-BolIta.woff 0.0 */
+
+@font-face {
+	font-family: "Baskervaldx";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Baskervaldx-BolIta") */
+		/* local("ADFBaskerville-BoldItalic") */
+		url("Baskervaldx-BolIta.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-FF, U+102-107, U+10C-10F,
+		U+111, U+118-11B, U+11E-11F, U+130-131,
+		U+139-13A, U+13D-13E, U+141-144, U+147-148,
+		U+150-155, U+158-15B, U+15E-165, U+16E-171,
+		U+178-17F, U+192, U+237, U+2C6-2C7,
+		U+2C9, U+2D8-2DD, U+3C0, U+2000-200A,
+		U+2010-2016, U+2018-2026, U+2030, U+2039-203A,
+		U+2044, U+2070, U+2074-2079, U+2080-2089,
+		U+20AC, U+2113, U+2122, U+2126,
+		U+212E, U+2202, U+2206, U+220F,
+		U+2211-2212, U+2215, U+2219-221A, U+221E,
+		U+222B, U+2248, U+2260, U+2264-2265,
+		U+25CA, U+E6A4-E6A5, U+E6AC-E6AD, U+F638,
+		U+FB00-FB06;
+}

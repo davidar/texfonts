@@ -1,0 +1,18 @@
+/* Automatically generated from: AlphaDia.woff 0.0 */
+
+@font-face {
+	font-family: "Chess Alpha Diagram";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("ChessAlphaDiagram") */
+		/* local("Chess Alpha Diagram") */
+		url("AlphaDia.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+30-36, U+41-42, U+4A-5A,
+		U+61-62, U+6A-73, U+7A, U+161,
+		U+2DC, U+2013-2014, U+2022, U+2122;
+}

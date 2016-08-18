@@ -1,0 +1,42 @@
+/* Automatically generated from: fbb-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "fbb";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("fbb-Bold") */
+		/* local("fbb Bold") */
+		url("fbb-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+A0-180, U+186, U+189,
+		U+192, U+195, U+197, U+199-19A,
+		U+19E, U+1A6, U+1B5-1B7, U+1BF-1C3,
+		U+1D1-1D6, U+1DD, U+1E2-1E7, U+1EA-1ED,
+		U+1F0, U+1F4-1F7, U+1FA-1FF, U+218-21B,
+		U+222-22B, U+22E-22F, U+232-233, U+237,
+		U+248-249, U+250-338, U+1D00-1D01, U+1D04-1D07,
+		U+1D0A-1D0D, U+1D0F, U+1D18, U+1D1B-1D1C,
+		U+1D20-1D23, U+1E9E-1E9F, U+1EA2-1EA3, U+1EAE-1EAF,
+		U+1EB8-1EB9, U+1EBC-1EBD, U+1EC8-1ECF, U+1EE4-1EE7,
+		U+1EF2-1EF9, U+1FFD-1FFE, U+2010-2016, U+2018-2027,
+		U+202F-2030, U+2032-2033, U+2035, U+2038-203B,
+		U+203E-2042, U+2044-2046, U+204A-204B, U+2058-205E,
+		U+2070, U+2074-208E, U+20A3-20A4, U+20A7,
+		U+20AA, U+20AC, U+2116, U+2122,
+		U+2126-2127, U+2212, U+2985-2986, U+E011,
+		U+E04A, U+EEC4-EECB, U+EECD-EECF, U+EF11,
+		U+EF15, U+F340-F342, U+F4BF, U+F4F9-F4FF,
+		U+F66D, U+F66F, U+F671-F672, U+F675,
+		U+F678, U+F67C-F67D, U+F684, U+F68E-F68F,
+		U+F692, U+F695-F696, U+F698-F699, U+F69D,
+		U+F6A0, U+F6A3, U+F6BE, U+F6C3,
+		U+F6C9-F6CF, U+F6F4-F6FF, U+F721, U+F726,
+		U+F730-F739, U+F73F, U+F743, U+F760-F761,
+		U+F763-F77A, U+F77D-F77F, U+F7A1, U+F7A8,
+		U+F7AF, U+F7B1-F7B6, U+F7B8, U+F7BF,
+		U+F7E0-F7F6, U+F7F8-F805, U+F860-F863, U+FB00-FB06;
+}

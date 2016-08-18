@@ -1,0 +1,60 @@
+/* Automatically generated from: EBGaramond12-Regular.woff 0.0 */
+
+@font-face {
+	font-family: "EB Garamond";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("EBGaramond12-Regular") */
+		/* local("EB Garamond 12 Regular") */
+		url("EBGaramond12-Regular.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+A0-2BF, U+2C4, U+2C6-2D1,
+		U+2D8-2DE, U+2E0-2E3, U+2F7, U+300-33E,
+		U+340-345, U+351, U+353, U+357,
+		U+35D, U+361, U+364, U+374,
+		U+37A, U+37E, U+384-38A, U+38C,
+		U+38E-3A1, U+3A3-3CE, U+3D1-3D6, U+3D9,
+		U+3DB-3DD, U+3E1, U+3F0-3F2, U+3F9,
+		U+3FB, U+400-45F, U+462-463, U+470,
+		U+472-477, U+490-491, U+4AE-4B1, U+4C0-4C2,
+		U+4D0-4F5, U+4F8-4F9, U+510-511, U+51A-51D,
+		U+1D00-1D02, U+1D04-1D07, U+1D0A-1D0D, U+1D0F,
+		U+1D18, U+1D1B-1D1C, U+1D20-1D22, U+1D26-1D2A,
+		U+1D2C-1D2E, U+1D30-1D31, U+1D33-1D3A, U+1D3C,
+		U+1D3E-1D43, U+1D47-1D4A, U+1D4D, U+1D4F-1D52,
+		U+1D56-1D58, U+1D5B, U+1D62-1D65, U+1D9C,
+		U+1DA0, U+1DBB, U+1DC4, U+1DD3,
+		U+1E00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D,
+		U+1F50-1F57, U+1F59, U+1F5B, U+1F5D,
+		U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3,
+		U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE,
+		U+2000-2016, U+2018-201A, U+201C-201E, U+2020-2022,
+		U+2024-2027, U+202A, U+2032-2037, U+2039-203A,
+		U+203C-203E, U+2044, U+2047-2049, U+204B,
+		U+204E, U+2057, U+2060, U+2070-2071,
+		U+2074-208E, U+2090-209C, U+20A5, U+20A8,
+		U+20AB-20AC, U+20B2, U+20B9, U+2100-2101,
+		U+2103, U+2105-2106, U+2109, U+210E,
+		U+2112-2113, U+2116, U+211E-2120, U+2122-2123,
+		U+2126-2127, U+212A-212B, U+2139, U+214B,
+		U+2150, U+2160-217F, U+2190-2199, U+219E-21A2,
+		U+21D0-21D3, U+21DA-21DD, U+2206-2207, U+220F-2210,
+		U+2212-2213, U+2215-2216, U+2219, U+221E,
+		U+2223-2226, U+2236, U+223C, U+2241,
+		U+2260, U+2264-2265, U+226A-226B, U+226E-226F,
+		U+22C5, U+22EF, U+2303, U+2329-232A,
+		U+2474-24B5, U+25E6, U+2619, U+261C-261E,
+		U+267E, U+270A-270C, U+2753, U+2757,
+		U+2766-2767, U+27E8-27EB, U+2A74-2A76, U+2B45-2B46,
+		U+2C60-2C7F, U+2E18, U+2E22-2E25, U+2E28-2E29,
+		U+2E2E, U+2E3A-2E3B, U+3003, U+3008-300B,
+		U+A726-A731, U+A742-A743, U+A749, U+A751,
+		U+A753, U+A757, U+A759, U+A76B,
+		U+A78D-A78E, U+A7AA, U+A7FB-A7FF, U+E001-E002,
+		U+E8BF, U+F6BE, U+FB00-FB06, U+FEFF,
+		U+FFFD;
+}

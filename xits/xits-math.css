@@ -1,0 +1,61 @@
+/* Automatically generated from: xits-math.woff 0.0 */
+
+@font-face {
+	font-family: "XITS Math";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("XITSMath") */
+		/* local("XITS Math") */
+		url("xits-math.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0-7E, U+A0-180, U+188, U+190,
+		U+192, U+195, U+199-19B, U+19E,
+		U+1A0-1A1, U+1A5, U+1AA-1AB, U+1AD,
+		U+1AF-1B0, U+1B5, U+1BA-1BB, U+1BE,
+		U+1C0-1C3, U+1F0, U+1FA-1FF, U+221,
+		U+234-237, U+250-2A8, U+2AE-2E9, U+2EC-2ED,
+		U+2F3, U+2F7, U+300-33F, U+346-347,
+		U+34C-34D, U+359, U+35C, U+360-362,
+		U+37E, U+384-38A, U+38C, U+38E-3A1,
+		U+3A3-3CE, U+3D0-3D2, U+3D5-3D6, U+3D8-3E1,
+		U+3F0-3F1, U+3F4-3F6, U+401-40C, U+40E-44F,
+		U+451-45C, U+45E-45F, U+462-463, U+46A-46B,
+		U+472-475, U+490-491, U+606-60A, U+60C,
+		U+660-66D, U+6F0-6F9, U+1D00, U+1D07,
+		U+1D1C, U+1D81, U+1D84-1D85, U+1D8A,
+		U+1D8D-1D8E, U+1D98, U+1DA3, U+1E80-1E85,
+		U+1EF2-1EF3, U+2000-2022, U+2025-2026, U+2028-203C,
+		U+203E, U+2040, U+2043-2044, U+2047,
+		U+204E-2052, U+2057, U+205F, U+207F,
+		U+20A3-20A4, U+20A7, U+20AC, U+20D0-20D2,
+		U+20D6-20D7, U+20DB-20DF, U+20E1, U+20E4-20F0,
+		U+2102, U+2105, U+2107, U+210A-2113,
+		U+2115-211E, U+2122, U+2124-2129, U+212B-2138,
+		U+213C-214B, U+2153-215E, U+2190-21EA, U+21F4-2300,
+		U+2302, U+2305-2306, U+2308-2313, U+2315-231A,
+		U+231C-2323, U+2329-232A, U+232C-232E, U+2332,
+		U+2336, U+233D, U+233F-2340, U+2353,
+		U+2370, U+237C, U+2393-2394, U+239B-23B9,
+		U+23CE, U+23D0, U+23DC-23E7, U+2423,
+		U+2460-2468, U+24B6-24EA, U+2500, U+2502,
+		U+2506, U+2508, U+250A, U+250C,
+		U+2510, U+2514, U+2518, U+251C,
+		U+2524, U+252C, U+2534, U+253C,
+		U+2550-256C, U+2571-2572, U+2580, U+2584,
+		U+2588, U+258C, U+2590-2593, U+25A0-25FF,
+		U+2605-2606, U+2609, U+260C, U+260E,
+		U+2612, U+2621, U+2639-2644, U+2646-2649,
+		U+2660-2667, U+2669-266B, U+266D-266F, U+267E,
+		U+2680-2689, U+26A0, U+26A5, U+26AA-26AC,
+		U+26B2, U+26E2, U+2702, U+2709,
+		U+2713, U+2720, U+272A, U+2736,
+		U+273D, U+2772-2773, U+2780-2793, U+279B,
+		U+27C0-27C9, U+27CB-27CD, U+27D0-27FF, U+2900-2AFF,
+		U+2B12-2B4C, U+2B50-2B54, U+3012, U+3030,
+		U+306E, U+A727, U+A792, U+FE00,
+		U+FFFD;
+}

@@ -1,0 +1,48 @@
+/* Automatically generated from: FreeSerifBoldItalic.woff 0.0 */
+
+@font-face {
+	font-family: "FreeSerif";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FreeSerifBoldItalic") */
+		/* local("FreeSerif Bold Italic") */
+		url("FreeSerifBoldItalic.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-36F, U+375, U+37A,
+		U+37E, U+384-38A, U+38C, U+38E-3A1,
+		U+3A3-3CE, U+3D0-3E1, U+3F0-4F9, U+510-513,
+		U+51A-51F, U+531-556, U+559-55F, U+561-587,
+		U+589-58A, U+58F, U+591-5C7, U+5D0-5EA,
+		U+5F0-5F4, U+E01-E3A, U+E3F-E5B, U+10A0-10C5,
+		U+10D0-10FC, U+13A0-13F4, U+1D00-1D05, U+1D07-1D0D,
+		U+1D0F, U+1D18, U+1D1A-1D1C, U+1D20-1D22,
+		U+1D9B, U+1D9D-1D9F, U+1DA4-1DA5, U+1DA8-1DA9,
+		U+1DAC-1DB9, U+1DBC-1DBF, U+1E00-1EF9, U+1F00-1F15,
+		U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57,
+		U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D,
+		U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB,
+		U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-2064,
+		U+2070-2071, U+2074-208E, U+2090-2094, U+20A0-20B5,
+		U+20B8-20B9, U+20D0-20D1, U+20D6-20D7, U+20DB-20E1,
+		U+20E5, U+20E7-20E8, U+20EA-20EF, U+2100-2101,
+		U+2103, U+2105-210B, U+210E-2114, U+2116-2118,
+		U+211B-211C, U+211E-2123, U+2126-2127, U+2129-212C,
+		U+212E-212F, U+2131-2133, U+2135-2138, U+213A-213B,
+		U+214B, U+214D-214E, U+2153-217F, U+2190-219B,
+		U+219E-21A8, U+21B8-21B9, U+21BC-21CC, U+21D0-21D5,
+		U+21DC-21DD, U+21E4-21E5, U+2200-221F, U+2223-222D,
+		U+2234-2237, U+2239, U+223C, U+2242-2243,
+		U+2245, U+2248, U+224A, U+2250-2257,
+		U+2259-225A, U+225D-2261, U+2264-2267, U+2272-2273,
+		U+2282-2283, U+2310, U+2322-2323, U+2329-232A,
+		U+2423, U+25CA-25CC, U+25D8, U+25E6,
+		U+25EF, U+2660-2667, U+2669-266F, U+2E17,
+		U+A726-A72F, U+A788-A78C, U+A7AA, U+A7FA,
+		U+FB00-FB06, U+FB13-FB17, U+FB1D-FB20, U+FB29-FB36,
+		U+FB38-FB3C, U+FB3E, U+FB40-FB41, U+FB43-FB44,
+		U+FB46-FB4F, U+FFF9-FFFD;
+}

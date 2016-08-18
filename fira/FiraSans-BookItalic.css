@@ -1,0 +1,48 @@
+/* Automatically generated from: FiraSans-BookItalic.woff 0.0 */
+
+@font-face {
+	font-family: "Fira Sans";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FiraSans-BookItalic") */
+		/* local("Fira Sans Book Italic") */
+		url("FiraSans-BookItalic.woff");
+	font-weight: 350; /* ERROR! Weight value is not a multiple of 100. */
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+D, U+20-7E, U+A0-2B2, U+2B4,
+		U+2B7-2BC, U+2BF-2C0, U+2C6-2C8, U+2CA-2CC,
+		U+2CE-2D1, U+2D4, U+2D6-2DE, U+2E0-2E9,
+		U+2EE, U+300-304, U+306-30D, U+30F,
+		U+311-313, U+316-321, U+323-32D, U+32F-332,
+		U+334-336, U+339-33D, U+342, U+345,
+		U+35C, U+361, U+370-377, U+37A-37F,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3E1,
+		U+3F0-479, U+48A-52F, U+1D4A, U+1D6C-1D76,
+		U+1D91, U+1DBF, U+1DC4-1DC9, U+1E02-1E05,
+		U+1E0A-1E0F, U+1E12-1E13, U+1E1E-1E1F, U+1E24-1E25,
+		U+1E2E-1E2F, U+1E36-1E37, U+1E3C-1E41, U+1E44-1E47,
+		U+1E4A-1E4D, U+1E50-1E57, U+1E5A-1E5B, U+1E60-1E63,
+		U+1E6A-1E71, U+1E78-1E79, U+1E80-1E85, U+1E92-1E93,
+		U+1E9E, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D,
+		U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59,
+		U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4,
+		U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF,
+		U+1FF2-1FF4, U+1FF6-1FFE, U+2007-2008, U+200B-200F,
+		U+2012-2016, U+2018-201A, U+201C-201E, U+2020-2022,
+		U+2026, U+2030, U+2039-203A, U+203F,
+		U+2044, U+204A, U+2070, U+2074-208E,
+		U+20AC, U+20AF, U+20B9-20BA, U+20BD,
+		U+210A, U+2113, U+2116, U+2122,
+		U+2126, U+212E, U+2153-215F, U+2190-2199,
+		U+21E6-21EA, U+2202, U+2205-2206, U+220F,
+		U+2211-2212, U+2215, U+2219-221A, U+221E,
+		U+222B, U+2248, U+2260, U+2264-2265,
+		U+22C5, U+2326-2328, U+232B, U+23CE,
+		U+25AF, U+25CA, U+27A1, U+2B05-2B07,
+		U+2C64-2C66, U+2C6D, U+2C71-2C73, U+A789-A78D,
+		U+A7AA, U+A7AD-A7AE, U+A7B2-A7B7, U+AB53,
+		U+E000-E003, U+FB01-FB02, U+FEFF;
+}

@@ -1,0 +1,41 @@
+/* Automatically generated from: Asana-Math.woff 0.0 */
+
+@font-face {
+	font-family: "Asana Math";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Asana-Math") */
+		/* local("Asana Math") */
+		url("Asana-Math.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0, U+20-7E, U+A1-AC, U+AE,
+		U+B0-B3, U+B5-FF, U+131, U+2C6-2C7,
+		U+2C9, U+2D8-2DC, U+300-308, U+30A,
+		U+30C, U+332-333, U+338, U+33F,
+		U+342, U+37E, U+382, U+384-38A,
+		U+38C, U+38E-3A1, U+3A3-3CE, U+3D0-3D1,
+		U+3D5-3D6, U+3DC-3DD, U+3F0-3F1, U+3F4-3F5,
+		U+13A0-13F4, U+2002-2006, U+2009-200A, U+2013-201E,
+		U+2020-2022, U+2024-2026, U+2030-2037, U+203B-203C,
+		U+203E-2040, U+2044-2046, U+2050, U+2057,
+		U+205D-205E, U+2070-2071, U+2074-208E, U+2090-2094,
+		U+20AC, U+20D0-20EF, U+2100-2103, U+2105-2107,
+		U+2109-2113, U+2115-211E, U+2120-2122, U+2124,
+		U+2126-2149, U+214B, U+214D-214E, U+2153-217F,
+		U+2190-2300, U+2304-2306, U+2308-230B, U+2310,
+		U+2319, U+231C-2323, U+2329-232A, U+233D,
+		U+239B-23AF, U+23B2-23B5, U+23B7, U+23DC-23E1,
+		U+2422-2423, U+25A0-25A1, U+25B2-25B3, U+25B6-25B7,
+		U+25BA-25BD, U+25C0-25C1, U+25C4-25C5, U+25CB,
+		U+25CE-25CF, U+25E6-25E8, U+25EB, U+25ED-25EF,
+		U+25FB-25FC, U+2605-2606, U+2660-2667, U+2669-266A,
+		U+266D-266F, U+2680-2685, U+2713, U+2720,
+		U+2731, U+2736, U+27C0-27CA, U+27CE-27FF,
+		U+2900-2B11, U+2B1A-2B1C, U+2B30-2B4C, U+2B50-2B52,
+		U+3008-300B, U+3014-3015, U+3018-301B, U+3024,
+		U+302D;
+}

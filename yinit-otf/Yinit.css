@@ -1,0 +1,15 @@
+/* Automatically generated from: Yinit.woff 0.0 */
+
+@font-face {
+	font-family: "Yinit";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Yinit") */
+		url("Yinit.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0, U+D, U+41-5A;
+}

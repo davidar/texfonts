@@ -1,0 +1,66 @@
+/* Automatically generated from: STIX-BoldItalic.woff 0.0 */
+
+@font-face {
+	font-family: "STIX";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("STIX-BoldItalic") */
+		url("STIX-BoldItalic.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-180, U+188, U+190,
+		U+192, U+195, U+199-19B, U+19E,
+		U+1A0-1A1, U+1A5, U+1AA-1AB, U+1AD,
+		U+1AF-1B0, U+1BA-1BB, U+1BE, U+1C0-1C3,
+		U+1F0, U+1FA-1FF, U+237, U+250-2A8,
+		U+2B0-2B8, U+2BB, U+2C0-2C1, U+2C6-2C7,
+		U+2D8-2DD, U+2E0-2E4, U+2EC-2ED, U+2F7,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3CE,
+		U+3D0-3D2, U+3D5-3D6, U+3D8-3E1, U+3F0-3F1,
+		U+3F4-3F6, U+401-40C, U+40E-44F, U+451-45C,
+		U+45E-45F, U+462-463, U+46A-46B, U+472-475,
+		U+490-491, U+1E80-1E85, U+1EF2-1EF3, U+2010-2014,
+		U+2018-2022, U+2026, U+2030-2031, U+2039-203A,
+		U+203E, U+2044, U+20A3-20A4, U+20A7,
+		U+20AC, U+20DD, U+2102, U+2105,
+		U+210A-210B, U+210D, U+2110, U+2112-2113,
+		U+2115-2116, U+2119-211B, U+211D, U+2122,
+		U+2124, U+212C, U+212F-2131, U+2133-2134,
+		U+213C, U+213F, U+2145-2149, U+2202,
+		U+2212, U+2423, U+2460-2468, U+24B6-24EA,
+		U+2500, U+2502, U+250C, U+2510,
+		U+2514, U+2518, U+251C, U+2524,
+		U+252C, U+2534, U+253C, U+2550-256C,
+		U+E09C-E09E, U+E0B3, U+E1F6-E201, U+E203-E215,
+		U+E217-E21A, U+E21D-E22C, U+E247-E260, U+E264,
+		U+E268, U+E26C, U+E270, U+E274,
+		U+E278, U+E27C, U+E280, U+E284,
+		U+E288, U+E295, U+E297, U+E299,
+		U+E29B, U+E29D, U+E29F, U+E2A1,
+		U+E2A3, U+E2A5, U+E2A7, U+E2A9,
+		U+E2AB, U+E2AD, U+E2AF, U+E2B1,
+		U+E2B3, U+E2B5, U+E2B7, U+E2B9,
+		U+E2BB, U+E2BD, U+E2BF, U+E2C1,
+		U+E2C3, U+E2C5, U+E2C7, U+E2C9,
+		U+E2CB, U+E2CD, U+E2CF, U+E2D1,
+		U+E2D3, U+E2D5, U+E2D7, U+E2D9,
+		U+E2DB, U+E2DD, U+E2DF, U+E2E1,
+		U+E2E3, U+E2E5, U+E2E7, U+E2E9,
+		U+E2EB, U+E2ED, U+E2EF, U+E2F1,
+		U+E2F3, U+E2F5, U+E2F7, U+E2F9,
+		U+E2FB, U+E32D, U+E32F, U+E331,
+		U+E333, U+E335, U+E337, U+E339,
+		U+E33B, U+E33D, U+E33F, U+E341,
+		U+E343, U+E345, U+E347, U+E349,
+		U+E34B, U+E34D, U+E34F, U+E351,
+		U+E353, U+E355, U+E357, U+E359,
+		U+E35B, U+E35D, U+E35F, U+E361,
+		U+E363, U+E367, U+E36B, U+E36F,
+		U+E373, U+E375, U+E377, U+E379,
+		U+E37B, U+E37E, U+E380, U+E382,
+		U+E384, U+E386, U+E388-E389, U+E3C5-E3C6,
+		U+FB00-FB04;
+}

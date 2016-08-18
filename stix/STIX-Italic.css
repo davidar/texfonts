@@ -1,0 +1,66 @@
+/* Automatically generated from: STIX-Italic.woff 0.0 */
+
+@font-face {
+	font-family: "STIX";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("STIX-Italic") */
+		url("STIX-Italic.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-180, U+188, U+190,
+		U+192, U+195, U+199-19B, U+19E,
+		U+1A0-1A1, U+1A5, U+1AA-1AB, U+1AD,
+		U+1AF-1B0, U+1BA-1BB, U+1BE, U+1C0-1C3,
+		U+1F0, U+1FA-1FF, U+237, U+250-2A8,
+		U+2B0-2B8, U+2BB, U+2C0-2C1, U+2C6-2C7,
+		U+2D8-2DD, U+2E0-2E4, U+2EC-2ED, U+2F7,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3CE,
+		U+3D0-3D2, U+3D5-3D6, U+3D8-3E1, U+3F0-3F1,
+		U+3F4-3F6, U+401-40C, U+40E-44F, U+451-45C,
+		U+45E-45F, U+462-463, U+46A-46B, U+472-475,
+		U+490-491, U+1E80-1E85, U+1EF2-1EF3, U+2010-2014,
+		U+2018-2022, U+2026, U+2030-2031, U+2039-203A,
+		U+203E, U+2044, U+20A3-20A4, U+20A7,
+		U+20AC, U+20D0-20D2, U+20D6-20D7, U+20DB-20DD,
+		U+20E1, U+20E4-20EA, U+20EC-20EF, U+2102,
+		U+2105, U+210A-210B, U+210D-210E, U+2110,
+		U+2112-2113, U+2115-2116, U+2119-211B, U+211D,
+		U+2122, U+2124, U+212C, U+212F-2131,
+		U+2133-2134, U+213C, U+213F, U+2145-2149,
+		U+2202, U+2212, U+2423, U+2460-2468,
+		U+24B6-24EA, U+2500, U+2502, U+250C,
+		U+2510, U+2514, U+2518, U+251C,
+		U+2524, U+252C, U+2534, U+253C,
+		U+2550-256C, U+E09C-E09E, U+E0B3, U+E154-E17B,
+		U+E1B4-E1F5, U+E22D-E246, U+E262, U+E266,
+		U+E26A, U+E26E, U+E272, U+E276,
+		U+E27A, U+E27E, U+E282, U+E286,
+		U+E294, U+E296, U+E298, U+E29A,
+		U+E29C, U+E29E, U+E2A0, U+E2A2,
+		U+E2A4, U+E2A6, U+E2A8, U+E2AA,
+		U+E2AC, U+E2AE, U+E2B0, U+E2B2,
+		U+E2B4, U+E2B6, U+E2B8, U+E2BA,
+		U+E2BC, U+E2BE, U+E2C0, U+E2C2,
+		U+E2C4, U+E2C6, U+E2C8, U+E2CA,
+		U+E2CC, U+E2CE, U+E2D0, U+E2D2,
+		U+E2D4, U+E2D6, U+E2D8, U+E2DA,
+		U+E2DC, U+E2DE, U+E2E0, U+E2E2,
+		U+E2E4, U+E2E6, U+E2E8, U+E2EA,
+		U+E2EC, U+E2EE, U+E2F0, U+E2F2,
+		U+E2F4, U+E2F6, U+E2F8, U+E2FA,
+		U+E32C, U+E32E, U+E330, U+E332,
+		U+E334, U+E336, U+E338, U+E33A,
+		U+E33C, U+E33E, U+E340, U+E342,
+		U+E344, U+E346, U+E348, U+E34A,
+		U+E34C, U+E34E, U+E350, U+E352,
+		U+E354, U+E356, U+E358, U+E35A,
+		U+E35C, U+E35E, U+E360, U+E362,
+		U+E366, U+E36A, U+E36E, U+E372,
+		U+E374, U+E376, U+E378, U+E37A,
+		U+E37D, U+E37F, U+E381, U+E383,
+		U+E385, U+E387, U+E389, U+FB00-FB04;
+}

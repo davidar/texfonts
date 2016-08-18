@@ -1,0 +1,24 @@
+/* Automatically generated from: Rosario-Italic.woff 0.0 */
+
+@font-face {
+	font-family: "Rosario";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Rosario-Italic") */
+		/* local("Rosario Italic") */
+		url("Rosario-Italic.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A1-FF, U+131, U+141-142,
+		U+152-153, U+160-161, U+178, U+17D-17E,
+		U+192, U+2C6-2C7, U+2D8-2DD, U+3C0,
+		U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022,
+		U+2026, U+2030, U+2039-203A, U+2044,
+		U+20AC, U+2122, U+2126, U+2202,
+		U+2206, U+220F, U+2211-2212, U+221A,
+		U+221E, U+222B, U+2248, U+2260,
+		U+2264-2265, U+25CA, U+FB01-FB02;
+}

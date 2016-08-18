@@ -1,0 +1,24 @@
+/* Automatically generated from: drmuibx11.woff 0.0 */
+
+@font-face {
+	font-family: "drmuibx11";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("drmuibx11") */
+		url("drmuibx11.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-26, U+28-5D, U+5F-7D, U+A1,
+		U+A3, U+A7-A8, U+AB, U+AD,
+		U+AF, U+B4, U+B8, U+BB,
+		U+BF-D6, U+D8-F6, U+F8-FF, U+102-107,
+		U+10C-10F, U+118-11B, U+11E-11F, U+130-131,
+		U+139-13A, U+13D-13E, U+141-144, U+147-148,
+		U+14A-14B, U+150-155, U+158-15B, U+15E-165,
+		U+16E-171, U+178-17E, U+237, U+2C6-2C7,
+		U+2D8-2DD, U+2013-2014, U+2018-201A, U+201C-201E,
+		U+2030, U+2039-203A, U+FB00-FB04;
+}

@@ -1,0 +1,44 @@
+/* Automatically generated from: FedorovskUnicode.woff 0.0 */
+
+@font-face {
+	font-family: "Fedorovsk Unicode";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("FedorovskUnicode") */
+		/* local("Fedorovsk Unicode") */
+		url("FedorovskUnicode.woff");
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0-7E, U+A0, U+A4, U+A7,
+		U+AB-AD, U+B0, U+B4, U+B6-B7,
+		U+BB, U+C0, U+C7-CB, U+CF,
+		U+D1, U+D4, U+D6, U+E0,
+		U+E7-EB, U+EF, U+F1, U+F4,
+		U+F6, U+2BC, U+300-303, U+306-308,
+		U+30B, U+30F, U+311, U+327,
+		U+33E, U+34F, U+358, U+400-47F,
+		U+482-489, U+490-491, U+10FB, U+1C80-1C88,
+		U+1DF6-1DF9, U+2002-2006, U+2008-200F, U+2011,
+		U+2013-2014, U+2018-2019, U+201C-201D, U+2020,
+		U+2022, U+2027, U+202F, U+203B,
+		U+2052-2053, U+2056, U+2058-2059, U+205C-205E,
+		U+20AC, U+20DD, U+2116, U+2213-2214,
+		U+2219, U+223B-223D, U+2241, U+25CC,
+		U+2626, U+271A, U+2720, U+2734,
+		U+29DF, U+2DE0-2DF7, U+2DF9-2DFD, U+2E2A-2E2D,
+		U+2E2F, U+2E34, U+2E43, U+2E45-2E49,
+		U+A640-A641, U+A64A-A64D, U+A656-A657, U+A65E-A65F,
+		U+A668-A67F, U+A698-A69B, U+A69E-A69F, U+E001,
+		U+E003, U+E005, U+E086, U+E08E,
+		U+E09E, U+E0E0-E0EF, U+E16E, U+E1A5,
+		U+E3E2, U+E3F2, U+E404, U+E540,
+		U+E5B8, U+E5D0-E5D3, U+E5D6-E5D8, U+E5FB-E5FC,
+		U+E70F-E710, U+E7B1, U+E7F0, U+E8E0-E8F0,
+		U+E900-E907, U+E909-E90D, U+E92A-E92B, U+E930-E931,
+		U+EC45-EC4B, U+EC50, U+F4E0-F4E2, U+F4E6-F4E7,
+		U+F4E9-F4ED, U+F4EF, U+F4F1-F4F3, U+F4FD,
+		U+FE00-FE03, U+FE26, U+FE2E-FE2F;
+}

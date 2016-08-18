@@ -1,0 +1,21 @@
+/* Automatically generated from: punknova-bold.woff 0.0 */
+
+@font-face {
+	font-family: "Punk Nova";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("PunkNova-Bold") */
+		/* local("Punk Nova Bold") */
+		url("punknova-bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7B, U+7D, U+A1, U+A8,
+		U+AF, U+B4, U+B8, U+BF,
+		U+C6, U+D8, U+DF, U+E6,
+		U+F8, U+131, U+152-153, U+237,
+		U+2C6-2C7, U+2D8-2DA, U+2DC-2DD, U+391-3A1,
+		U+3A3-3A9, U+2013-2014, U+2018-2019, U+201C-201D;
+}

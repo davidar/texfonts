@@ -1,0 +1,61 @@
+/* Automatically generated from: Erewhon-BoldSlanted.woff 0.0 */
+
+@font-face {
+	font-family: "erewhon";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Erewhon-BoldSlanted") */
+		/* local("Erewhon Bold Slanted") */
+		url("Erewhon-BoldSlanted.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+0, U+20-7E, U+A0-121, U+124-12D,
+		U+130-131, U+134-135, U+139-13A, U+13D-13E,
+		U+141-148, U+14A-155, U+158-165, U+168-171,
+		U+174-17F, U+186, U+189, U+18E-192,
+		U+194, U+196-197, U+19C, U+19F-1A1,
+		U+1A7-1A9, U+1AF-1B0, U+1B2, U+1B7,
+		U+1CD-1D4, U+1DD, U+1E2-1E3, U+1E6-1E9,
+		U+1EE-1F0, U+1F4-1F5, U+1F8-1F9, U+1FC-21B,
+		U+21E-21F, U+226-227, U+22E-22F, U+232-233,
+		U+237, U+241, U+244-245, U+250-252,
+		U+254, U+256, U+258-259, U+25B-25C,
+		U+263, U+265, U+268-26A, U+26F,
+		U+271, U+275, U+279, U+283,
+		U+287, U+289, U+28B-28E, U+292,
+		U+294-296, U+299, U+29C, U+29E,
+		U+2B0, U+2B2-2B4, U+2B7-2BA, U+2C6-2C7,
+		U+2CA-2CB, U+2CE-2CF, U+2D8-2DD, U+2E0-2E4,
+		U+2EE, U+300-30C, U+30F, U+311,
+		U+315-317, U+323-328, U+32C-332, U+334,
+		U+338, U+365, U+400-45F, U+462-463,
+		U+46A-46B, U+472-475, U+490-497, U+49A-49B,
+		U+49E-49F, U+4A2-4A5, U+4A8-4B7, U+4BA-4C4,
+		U+4C7-4C8, U+4CF-4F9, U+512-513, U+524-525,
+		U+1D43-1D4B, U+1D4D, U+1D4F-1D53, U+1D56-1D58,
+		U+1D5A-1D5B, U+1D78, U+1D9B-1D9C, U+1D9E-1DA0,
+		U+1DA3-1DA6, U+1DAC, U+1DB1, U+1DB4,
+		U+1DB6, U+1DB9-1DBB, U+1DBE, U+1E00-1E1B,
+		U+1E1E-1E27, U+1E2A-1E2D, U+1E30-1E63, U+1E68-1E77,
+		U+1E7C-1E99, U+1E9B, U+1EA0-1EF9, U+2000-200D,
+		U+2010-2011, U+2013-2014, U+2016, U+2018-201A,
+		U+201C-201E, U+2020-2022, U+2026, U+2030,
+		U+2032-2033, U+2039-203A, U+2044, U+2070,
+		U+2074-2079, U+207F-2089, U+20AC, U+2116,
+		U+211F, U+2122-2123, U+2150-215F, U+2212,
+		U+2423, U+2C6E, U+2C71, U+A788-A78A,
+		U+A78D, U+E004, U+E008, U+E00F,
+		U+E014, U+E018-E019, U+E01E, U+E030,
+		U+E035, U+E037, U+E039, U+E03E-E03F,
+		U+E045-E046, U+E048-E04E, U+E050-E05A, U+E05E-E060,
+		U+E066, U+E06B, U+E070, U+E072,
+		U+E076-E079, U+E07D, U+E081-E083, U+E088,
+		U+E092, U+E098, U+E09A-E09B, U+E0A9-E0B0,
+		U+EFED-EFEE, U+EFF3, U+EFF5, U+EFF7,
+		U+F102, U+F655-F66C, U+F6C9-F6CB, U+F6CE-F6D1,
+		U+F6D4, U+F6E9-F6F3, U+F7E0-F7E5, U+F7E7-F7EF,
+		U+F7F1-F7F6, U+F7F9-F7FD, U+F7FF, U+FB00-FB04;
+}

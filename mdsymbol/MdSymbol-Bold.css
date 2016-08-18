@@ -1,0 +1,53 @@
+/* Automatically generated from: MdSymbol-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "MdSymbol";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("MdSymbol-Bold") */
+		/* local("MdSymbol Bold") */
+		url("MdSymbol-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+28-29, U+2B, U+2F,
+		U+3C-3E, U+5B-5D, U+7B-7D, U+AC,
+		U+B1, U+D7, U+F7, U+302-303,
+		U+311, U+335, U+337-338, U+2016,
+		U+2022, U+2032, U+2035, U+2050,
+		U+20D7, U+2118, U+2132, U+2135-2138,
+		U+2141, U+2190-21A7, U+21A9-21B3, U+21BA-21DD,
+		U+21E0-21E3, U+21F5, U+2200-2201, U+2203-2205,
+		U+2207-2209, U+220B-220C, U+220F-2217, U+221A,
+		U+221D-2238, U+223A, U+223C-223D, U+2240-225C,
+		U+2260-2262, U+2264-228B, U+228D-22AF, U+22B2-22B8,
+		U+22BA-22BC, U+22BE, U+22C0-22D4, U+22D6-22DB,
+		U+22DE-22F1, U+2308-230B, U+2310, U+2314,
+		U+2319, U+231C-231F, U+2322-2323, U+234A,
+		U+2351, U+239B-23AD, U+23B7, U+25A0-25A1,
+		U+25AA-25AB, U+25B2-25B9, U+25BC-25C3, U+25C6-25C7,
+		U+25CA-25CB, U+25CF, U+25E6, U+25EB,
+		U+25EF, U+2605-2606, U+2660-2663, U+2665-2666,
+		U+266D-266F, U+2713, U+2720-2721, U+27C2,
+		U+27C7, U+27D0-27D1, U+27D3-27D4, U+27DC-27DE,
+		U+27E0, U+27E6-27EB, U+27F2-27F3, U+27F5-27FF,
+		U+2906-2907, U+290A-290B, U+2921-2926, U+2933-293B,
+		U+294A-294D, U+296E-296F, U+2980, U+2991-2992,
+		U+299B-299D, U+29A0-29A1, U+29A3, U+29B0,
+		U+29B6, U+29B8, U+29C4-29C5, U+29C8,
+		U+29D6, U+29DF, U+29EB, U+2A00-2A0F,
+		U+2A11, U+2A25, U+2A2A-2A2C, U+2A30-2A32,
+		U+2A3C-2A3D, U+2A3F-2A40, U+2A4E-2A4F, U+2A55-2A56,
+		U+2A5E, U+2A63, U+2A66, U+2A7D-2A80,
+		U+2A85-2A8C, U+2A95-2A96, U+2AA6-2AA9, U+2AAE-2ABA,
+		U+2AC5-2AC6, U+2ACB-2ACC, U+2ADE-2AE0, U+2AE2-2AE5,
+		U+2AE7-2AE8, U+2AEA-2AEB, U+2AEF-2AF0, U+2B1B-2B1C,
+		U+2B24, U+2B29-2B2B, U+2B33, U+2B3F,
+		U+2B50-2B52, U+3012, U+E21B, U+E2A5-E2A8,
+		U+E2AA-E2AB, U+E2AE, U+E2B0, U+E2BC,
+		U+E2CB-E2CE, U+E301-E302, U+E38A, U+E5DC,
+		U+E5F1, U+E604, U+E615-E616, U+E836-E837,
+		U+E84D-E84E, U+ED64-ED65, U+ED7C-ED7D;
+}

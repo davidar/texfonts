@@ -1,0 +1,53 @@
+/* Automatically generated from: MenaionUnicode.woff 0.0 */
+
+@font-face {
+	font-family: "Menaion Unicode";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("MenaionUnicode") */
+		/* local("Menaion Unicode") */
+		url("MenaionUnicode.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0-7E, U+A0, U+A4, U+A7-A8,
+		U+AB-AD, U+B0, U+B4, U+B6-B7,
+		U+BA-BB, U+C0, U+C7-CB, U+CF,
+		U+D1, U+D4, U+D6-D8, U+E0-E2,
+		U+E4, U+E7-EB, U+EE-EF, U+F1,
+		U+F3-F4, U+F6-F7, U+F9-FD, U+101,
+		U+103, U+113, U+11B, U+12D,
+		U+131, U+1D0, U+2BC, U+2C6-2C7,
+		U+2D8, U+2DC, U+300-30F, U+311-315,
+		U+31B, U+327, U+32A, U+33D-343,
+		U+345, U+34F-351, U+357, U+35E,
+		U+361, U+374-375, U+37A, U+37E,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3CE,
+		U+3DA-3E1, U+400-489, U+490-491, U+4A4-4A5,
+		U+10FB, U+1C80-1C88, U+1DC0-1DC1, U+1DC3,
+		U+1DCD, U+1DFE, U+1F00-1F15, U+1F18-1F1D,
+		U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59,
+		U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4,
+		U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF,
+		U+1FF2-1FF4, U+1FF6-1FFE, U+2002-2027, U+202F-2046,
+		U+2052-2053, U+2056, U+2058-205E, U+20AC,
+		U+20DB, U+20DD, U+2219, U+2227-2228,
+		U+223B-223E, U+2240-2241, U+2329-232A, U+25AB,
+		U+25B2, U+25BA, U+25BC, U+25C4,
+		U+25C7, U+25CB-25CC, U+25E6, U+2626,
+		U+271A, U+2720, U+2722, U+2734,
+		U+274B, U+2758, U+2C00-2C2E, U+2C30-2C5E,
+		U+2DE0-2DFF, U+2E26-2E27, U+2E2A-2E2D, U+2E2F,
+		U+2E34, U+2E43, U+2E46-2E49, U+A640-A67F,
+		U+A698-A69B, U+A69E-A69F, U+E001, U+E003,
+		U+E005, U+E021-E022, U+E024-E026, U+E029-E02A,
+		U+E02D-E02E, U+E031-E032, U+E034, U+E037-E038,
+		U+E2E0, U+E5EB-E5EC, U+E5FA-E5FB, U+E6C3,
+		U+E6D1, U+E700, U+E70A, U+E742,
+		U+E747, U+E74B, U+E750, U+E7DE-E7E1,
+		U+E7E3, U+E7E9, U+E7ED, U+E7F0-E7F1,
+		U+E7F5, U+E7F7, U+E7FD, U+E9FA,
+		U+ECE0-ECE7, U+FE00-FE03, U+FE26, U+FE2E-FE2F;
+}

@@ -1,0 +1,23 @@
+/* Automatically generated from: smfpsl10.woff 0.0 */
+
+@font-face {
+	font-family: "Semafor";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Semafor-PersonPillar-Slant") */
+		url("smfpsl10.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20, U+23-24, U+2A, U+2E,
+		U+30-39, U+41-5A, U+61-7A, U+A0,
+		U+C0-C5, U+C7-CF, U+D1-D6, U+D8-DD,
+		U+E0-E5, U+E7-EF, U+F1-F6, U+F8-FD,
+		U+FF, U+102-107, U+10C-10F, U+111,
+		U+118-11B, U+11E-11F, U+130, U+139-13A,
+		U+13D-13E, U+141-144, U+147-148, U+150-151,
+		U+154-155, U+158-15B, U+15E-165, U+16E-171,
+		U+178-17E;
+}

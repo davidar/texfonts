@@ -1,0 +1,35 @@
+/* Automatically generated from: PomorskyUnicode.woff 0.0 */
+
+@font-face {
+	font-family: "Pomorsky";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("PomorskyUnicode") */
+		/* local("Pomorsky Unicode") */
+		url("PomorskyUnicode.woff");
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+0-7F, U+A0, U+A4, U+A7,
+		U+AB-AD, U+B0, U+B4, U+B6-B7,
+		U+BB, U+300-301, U+306-308, U+30F,
+		U+311, U+33E, U+34F, U+400-42F,
+		U+460, U+462, U+464, U+466,
+		U+468, U+46A, U+46C, U+46E,
+		U+470, U+472, U+474, U+476,
+		U+478, U+47A, U+47C, U+47E,
+		U+480-487, U+2000-2015, U+2028-2029, U+202F,
+		U+20AC, U+20DD, U+25CC, U+2DE2-2DE5,
+		U+2DE8, U+2DED-2DEF, U+2E2F, U+A64A,
+		U+A64C, U+A656, U+A66F, U+A673,
+		U+A675, U+A67C-A67F, U+E001, U+E003,
+		U+E005, U+E016, U+E92A, U+F42C,
+		U+F440, U+F450-F451, U+F480, U+F4E2,
+		U+F4ED, U+F500-F507, U+F510-F52B, U+F52E,
+		U+F53A-F53B, U+F560, U+F562, U+F566,
+		U+F56E, U+F570, U+F572, U+F574,
+		U+F576, U+F578, U+F57A, U+F57C,
+		U+F57E, U+F74D, U+F756, U+FE2E-FE2F;
+}

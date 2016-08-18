@@ -1,0 +1,27 @@
+/* Automatically generated from: XCharter-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "XCharter";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("XCharter-Bold") */
+		/* local("XCharter Bold") */
+		url("XCharter-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+A1-AC, U+AE-FF, U+102-107,
+		U+10C-10F, U+111, U+118-11B, U+11E-11F,
+		U+130-133, U+139-13A, U+13D-13E, U+141-144,
+		U+147-148, U+14A-14B, U+150-155, U+158-15B,
+		U+15E-165, U+16E-171, U+178-17E, U+192,
+		U+237, U+2C6-2C7, U+2D8-2DD, U+2013-2014,
+		U+2016, U+2018-201A, U+201C-201E, U+2020-2022,
+		U+2026, U+2030, U+2039-203A, U+2044,
+		U+20AC, U+2122, U+2212, U+2420,
+		U+F6FD, U+F6FF, U+F730-F739, U+F7E0-F7E5,
+		U+F7E7-F7EF, U+F7F1-F7F6, U+F7F9-F7FD, U+F7FF,
+		U+FB00-FB04;
+}

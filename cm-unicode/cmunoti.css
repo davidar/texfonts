@@ -1,0 +1,59 @@
+/* Automatically generated from: cmunoti.woff 0.0 */
+
+@font-face {
+	font-family: "CMU Concrete";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("CMUConcrete-Italic") */
+		/* local("CMU Concrete Italic") */
+		url("cmunoti.woff");
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+0, U+20-7E, U+A0-121, U+124-125,
+		U+128-12D, U+130-135, U+139-13A, U+13D-13E,
+		U+141-144, U+147-148, U+14A-155, U+158-165,
+		U+168-171, U+174-17F, U+186, U+18F-190,
+		U+192, U+1A0-1A1, U+1AF-1B0, U+1B7,
+		U+1C4-1D4, U+1DD, U+1E2-1E3, U+1E6-1E9,
+		U+1EE-1F5, U+1F8-1F9, U+1FC-21B, U+21E-21F,
+		U+226-227, U+22E-22F, U+232-233, U+237,
+		U+245, U+254, U+259, U+25B-25C,
+		U+265, U+26F, U+275, U+279,
+		U+287, U+292, U+2B9, U+2BC,
+		U+2C6-2C7, U+2CE-2CF, U+2D8-2DD, U+300-30C,
+		U+30F, U+311, U+313-317, U+323-328,
+		U+32C-332, U+334-335, U+337-338, U+347,
+		U+35C-35D, U+361, U+374-375, U+37A,
+		U+37E, U+384-38A, U+38C, U+38E-3A1,
+		U+3A3-3CE, U+3D1, U+3D8-3DD, U+3DF-3E1,
+		U+3F5, U+400-477, U+47A-486, U+488-4C9,
+		U+4CB-4CE, U+4D0-4F9, U+4FC-4FF, U+512-513,
+		U+51A-51D, U+E3F, U+1E00-1E13, U+1E18-1E1B,
+		U+1E1E-1E27, U+1E2A-1E2D, U+1E30-1E4B, U+1E54-1E63,
+		U+1E68-1E77, U+1E7C-1E99, U+1E9B, U+1EA0-1EF9,
+		U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D,
+		U+1F50-1F57, U+1F59, U+1F5B, U+1F5D,
+		U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3,
+		U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE,
+		U+2000-200D, U+2010-2014, U+2016, U+2018-2022,
+		U+2026, U+2029, U+2030-2031, U+2039-203B,
+		U+203D, U+203F-2040, U+2044-2046, U+2052,
+		U+2054, U+2080, U+20A1, U+20A4,
+		U+20A6, U+20A9, U+20AB-20AC, U+20B2,
+		U+2103, U+2116-2117, U+211E, U+2120,
+		U+2122, U+2126-2127, U+212E, U+2190-2193,
+		U+2206, U+2212, U+2217, U+221A,
+		U+22C6, U+2329-232A, U+2422-2423, U+25CB,
+		U+25E6, U+262D, U+266A, U+26AD-26AE,
+		U+271D, U+2E18, U+301A-301B, U+A46A-A46B,
+		U+A640, U+A648, U+A656, U+EFF5,
+		U+F100-F10F, U+F111-F11E, U+F121-F123, U+F126-F140,
+		U+F1AB-F1AC, U+F1B1-F1B5, U+F24C-F24E, U+F25C-F2A1,
+		U+F2A4, U+F2A6-F2A8, U+F460-F468, U+F46A-F472,
+		U+F6C4, U+F6C6-F6C9, U+F6CE-F6D0, U+F6D3-F6D6,
+		U+F6DE, U+F724, U+F730-F739, U+F7A2,
+		U+FB00-FB04, U+FE66;
+}

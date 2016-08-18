@@ -1,0 +1,52 @@
+/* Automatically generated from: Tempora-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "Tempora";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Tempora-Bold") */
+		/* local("Tempora Bold") */
+		url("Tempora-Bold.woff");
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-5F, U+61-7E, U+A1-AE, U+B0-B3,
+		U+B5-CF, U+D1-17F, U+18F-190, U+192,
+		U+19F-1A1, U+1AF-1B0, U+1C4-1CC, U+1E2-1E3,
+		U+1F0-1F5, U+1FA-21B, U+222-225, U+232-233,
+		U+259, U+25B, U+275, U+2BB-2BD,
+		U+2C0, U+2C6-2C7, U+2C9-2CB, U+2D8-2DD,
+		U+300-30C, U+30F, U+311-314, U+316-317,
+		U+31B, U+323-328, U+32C-331, U+33E,
+		U+342-345, U+374-375, U+37A, U+37E,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-3AB,
+		U+3B0-3CB, U+3D0-3D2, U+3D4-3E1, U+3F0-486,
+		U+490-493, U+496-49D, U+4A0-4A5, U+4AA-4AB,
+		U+4AE-4B3, U+4B6-4BB, U+4C0-4C2, U+4D0-4DF,
+		U+4E2-4F5, U+4F8-4F9, U+1EA0-1EF9, U+1F00-1F15,
+		U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57,
+		U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D,
+		U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB,
+		U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFC, U+1FFE,
+		U+200C, U+2013-2014, U+2018-2023, U+2026,
+		U+2030-2031, U+2038-203D, U+203F-2049, U+2070,
+		U+2074-2079, U+2080-2089, U+20A0-20A7, U+20A9,
+		U+20AB-20AC, U+2103-2104, U+2109, U+2114,
+		U+2116, U+211E-211F, U+2122-2123, U+2126,
+		U+212A-212B, U+212E, U+2132, U+2153-215F,
+		U+2190-2199, U+2202, U+2206, U+2211-2212,
+		U+221A, U+221E, U+2260, U+2264-2265,
+		U+2329-232A, U+2423, U+25CA, U+2669-266C,
+		U+301A-301B, U+E087, U+E095, U+E09A,
+		U+E0AB, U+E0AD-E0B0, U+E1A0-E1A3, U+E1A9-E1B3,
+		U+E1BC-E1C3, U+E1CC-E1CF, U+EB00-EB01, U+EB04-EB0B,
+		U+EB0E-EB0F, U+EB12, U+EB1A-EB1B, U+EB1E-EB1F,
+		U+EB22, U+EB2A-EB2B, U+EB2E-EB2F, U+EB34-EB39,
+		U+EB3D-EB3F, U+EB46-EB49, U+EB4F-EB5F, U+EC20,
+		U+EC29, U+EC32, U+EC40-EC43, U+ED00,
+		U+F485, U+F6BE, U+F6C3, U+F6C5,
+		U+F6D4, U+F6D6, U+F6D9, U+F730-F739,
+		U+FB00-FB04, U+FB06;
+}

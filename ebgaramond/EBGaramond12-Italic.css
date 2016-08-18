@@ -1,0 +1,53 @@
+/* Automatically generated from: EBGaramond12-Italic.woff 0.0 */
+
+@font-face {
+	font-family: "EB Garamond";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("EBGaramond12-Italic") */
+		/* local("EB Garamond 12 Italic") */
+		url("EBGaramond12-Italic.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	unicode-range: U+20-7E, U+A0-17F, U+191, U+1A0-1A1,
+		U+1AF-1B0, U+1B7, U+1C0-1C1, U+1C4-1DC,
+		U+1DE-1E3, U+1E6-1F5, U+1F8-21B, U+21E-21F,
+		U+226-233, U+237, U+245, U+250,
+		U+254, U+258-259, U+25B-25C, U+275-276,
+		U+28A, U+292, U+2B0, U+2B2-2B3,
+		U+2B7-2BC, U+2BE-2BF, U+2C4, U+2C6-2C7,
+		U+2C9-2CB, U+2CD-2CF, U+2D8-2DD, U+2E1-2E3,
+		U+2F7, U+300-31A, U+31C-320, U+323-333,
+		U+339-33C, U+33E, U+340-345, U+351,
+		U+357, U+374, U+37E, U+384-38A,
+		U+38C, U+38E-3A1, U+3A3-3CE, U+3D0-3D6,
+		U+3F0-3F1, U+400-45F, U+470, U+474-477,
+		U+490, U+4AE, U+4C0-4C2, U+4D0-4D8,
+		U+4DA, U+4DC-4DF, U+4E1-4F5, U+4F8-4F9,
+		U+1D02, U+1D2C-1D2E, U+1D30-1D31, U+1D33-1D3A,
+		U+1D3C, U+1D3E-1D43, U+1D47-1D49, U+1D4D,
+		U+1D4F-1D52, U+1D56-1D58, U+1D5B, U+1D61-1D65,
+		U+1D68, U+1D6A, U+1D9C, U+1D9E,
+		U+1DA0, U+1DBB, U+1DBE, U+1E00-1EF9,
+		U+1EFB, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45,
+		U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B,
+		U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FBD,
+		U+1FBF-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF,
+		U+1FF2-1FF4, U+1FF6-1FFE, U+2000-201A, U+201C-201E,
+		U+2020-2022, U+2024-2026, U+202A, U+2032-2037,
+		U+2039-203A, U+203C-203E, U+2044, U+2047-2049,
+		U+2057, U+2060, U+2070-2071, U+2074-208E,
+		U+2090-2093, U+20A8, U+20AC, U+2100-2101,
+		U+2105-2106, U+2112-2113, U+2116, U+2120,
+		U+2122, U+2126-2127, U+212A-212B, U+2160-217F,
+		U+2190-219B, U+21AE, U+2206, U+2212-2213,
+		U+2215-2216, U+2219, U+2223-2226, U+2236,
+		U+223C, U+2241, U+2260, U+226A-226B,
+		U+226E-226F, U+22C5, U+22EF, U+2303,
+		U+2474-24B5, U+25E6, U+261C, U+261E,
+		U+2A74-2A76, U+2C7C-2C7D, U+A726-A727, U+A731,
+		U+E001-E002, U+F6BE, U+FB00-FB06, U+FEFF;
+}

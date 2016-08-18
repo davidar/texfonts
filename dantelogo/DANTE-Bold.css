@@ -1,0 +1,16 @@
+/* Automatically generated from: DANTE-Bold.woff 0.0 */
+
+@font-face {
+	font-family: "DANTE";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("DANTE-Bold") */
+		url("DANTE-Bold.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+41, U+44-45, U+4E,
+		U+54, U+A0;
+}

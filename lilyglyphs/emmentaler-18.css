@@ -1,0 +1,17 @@
+/* Automatically generated from: emmentaler-18.woff 0.0 */
+
+@font-face {
+	font-family: "Emmentaler-18";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Emmentaler-18") */
+		url("emmentaler-18.woff");
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20, U+2B-2E, U+30-39, U+66,
+		U+6D, U+70, U+72-73, U+7A,
+		U+E100-E31F;
+}

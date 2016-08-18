@@ -1,0 +1,39 @@
+/* Automatically generated from: Cochineal-Roman.woff 0.0 */
+
+@font-face {
+	font-family: "Cochineal";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("Cochineal-Roman") */
+		/* local("Cochineal Roman") */
+		url("Cochineal-Roman.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+20-7E, U+A0-AC, U+AE-17F, U+189,
+		U+1A0-1A1, U+1AF-1B0, U+1CD-1DC, U+1E2-1E3,
+		U+1E6-1E7, U+1FA-1FF, U+202-203, U+218-21B,
+		U+232-233, U+237, U+2BB-2BC, U+2BE-2C0,
+		U+2C6-2C7, U+2CE-2CF, U+2D8-2DD, U+300-30C,
+		U+311-312, U+314-315, U+323, U+326-328,
+		U+32E-32F, U+35D, U+370-377, U+37A-37E,
+		U+384-38A, U+38C, U+38E-3A1, U+3A3-45F,
+		U+462-463, U+472-475, U+4D9, U+1E00-1E1B,
+		U+1E1E-1E99, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D,
+		U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59,
+		U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4,
+		U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF,
+		U+1FF2-1FF4, U+1FF6-1FFC, U+1FFE, U+2000-2016,
+		U+2018-201A, U+201C-201E, U+2020-2022, U+2024,
+		U+2026, U+202F-2030, U+2032-2033, U+2038-203A,
+		U+203E, U+2044, U+205F-2060, U+2070,
+		U+2074-2079, U+2080-2089, U+20A4, U+20AC,
+		U+2102-2103, U+2113, U+2115-2116, U+211A,
+		U+211D, U+2122, U+2124, U+2126,
+		U+2190-2193, U+2200, U+2202, U+2206-2209,
+		U+2211-2213, U+221A, U+221D-221E, U+2260,
+		U+2264-2265, U+2282, U+F6D4-F6D5, U+FB00-FB04,
+		U+FEFF;
+}

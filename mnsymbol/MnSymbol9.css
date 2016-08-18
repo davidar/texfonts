@@ -1,0 +1,44 @@
+/* Automatically generated from: MnSymbol9.woff 0.0 */
+
+@font-face {
+	font-family: "MnSymbol";
+	src: 
+		/* The "local" lines will cause the browser to look for a locally */
+		/* installed font with the specified name before downloading the WOFF file. */
+		/* Remove the commenting if you want this behavior. */
+		/* local("MnSymbol9") */
+		/* local("MnSymbol Regular 9") */
+		url("MnSymbol9.woff");
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	unicode-range: U+28-29, U+2B, U+3C-3E, U+41-5B,
+		U+5D, U+7B, U+7D, U+AC,
+		U+B1, U+D7, U+F7, U+302-303,
+		U+335, U+337-338, U+2032, U+2035,
+		U+20D7, U+2118, U+2135-2138, U+2190-21A7,
+		U+21A9-21AE, U+21B0-21B1, U+21B6-21B7, U+21BA-21C4,
+		U+21C6-21DB, U+21E0-21E3, U+2200-2201, U+2203-2205,
+		U+2207-2209, U+220B-220C, U+220E-2213, U+2215-2217,
+		U+221A, U+221D-221E, U+2220-222F, U+2232-2238,
+		U+223C-223D, U+2240-2245, U+2247-2253, U+2256-2257,
+		U+2259, U+225C, U+2260-2262, U+2264-228B,
+		U+228D-229B, U+229E-22A5, U+22A7, U+22A9-22AF,
+		U+22B2-22B5, U+22B8, U+22BA, U+22C0-22C3,
+		U+22C5-22C6, U+22C8-22D4, U+22D6-22DB, U+22DE-22E5,
+		U+22E8-22F1, U+2308-230B, U+2310, U+231C-231F,
+		U+2322-2323, U+234A, U+2351, U+235F,
+		U+239B-23AD, U+25B2-25B9, U+25BC-25C3, U+25C6-25C7,
+		U+25CA-25CB, U+25CF, U+25EF, U+25FB,
+		U+25FD-25FE, U+2600, U+2605-2607, U+2660-2663,
+		U+266D-266F, U+2713, U+2720-2721, U+27D0,
+		U+27DC, U+27E6-27EB, U+27F2-27F3, U+2921-2926,
+		U+2938-2939, U+293E-293F, U+294A-294B, U+296E-296F,
+		U+29B6, U+29B8, U+29C4-29C5, U+29C8,
+		U+29D6, U+29EB, U+2A09, U+2A0B-2A0C,
+		U+2A0F, U+2A19-2A1A, U+2A3C-2A3D, U+2A40,
+		U+2A4E-2A4F, U+2A54-2A55, U+2A66, U+2A7D-2A80,
+		U+2A85-2A86, U+2A89-2A8C, U+2A95-2A96, U+2AA6-2AA7,
+		U+2AAF-2AB0, U+2AB7-2ABA, U+2AC5-2AC6, U+2ACB-2ACC,
+		U+2ADB-2ADD, U+2AEF-2AF0;
+}
