@@ -1,0 +1,16 @@
+Family:              Chivo
+Subfamily:           Regular
+Full name:           Chivo-Regular
+PostScript name:     Chivo-Regular
+Version:             Version 1.003;PS 001.003;hotconv 1.0.70;makeotf.lib2.5.58329
+Unique ID:           1.003;OMNI;Chivo-Regular
+Description:         Chivo (Goat) is a new Omnibus-Type grotesque. The strength of Chivo Black make it ideal for highlights and headlines. Chivo Regular elegance makes it ideal for combining the strength of Chivo Black and to use in texts for continuous reading. Its design detail becomes an indispensable ally for any designer.
+Designer:            Hector Gatti
+Designer URL:        http://www.omnibus-type.com
+Manufacturer:        Omnibus-Type
+Vendor URL:          http://www.omnibus-type.com
+Trademark:           Chivo is a trademark of Omnibus-Type.
+Copyright:           Copyright (c) 2011-2015 by Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+License URL:         http://scripts.sil.org/OFL
+License Description: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+Vendor ID:           OMNI

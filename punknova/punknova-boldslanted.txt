@@ -1,0 +1,8 @@
+Family:              Punk Nova
+Subfamily:           BoldSlanted
+Full name:           Punk Nova Bold Slanted
+PostScript name:     PunkNova-BoldSlanted
+Version:             Version 001.003 
+Unique ID:           FontForge 2.0 : Punk Nova Bold Slanted : 22-11-2011
+Copyright:           Unlimited copying and redistribution of this file are permitted as long as this file is not modified. Modifications are permitted, but only if the resulting file is not named 'punknova-boldslanted.otf' and the (internal) fontname differs from 'Punk Nova'.
+Vendor ID:           PfEd

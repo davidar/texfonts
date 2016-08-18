@@ -1,0 +1,15 @@
+Family:              Baskervaldx
+Subfamily:           Bol
+Full name:           ADFBaskerville-Bold
+PostScript name:     Baskervaldx-Bol
+Version:             Version 1.0
+Unique ID:           FontForge : Baskervaldx Bold : 26-11-2014
+Description:         ADFBaskerville is a modification of Baskervald ADF
+Designer:            HARENDAL Hirwen
+Designer URL:        http://arkandis.tuxfamily.org
+Manufacturer:        Arkandis Digital Foundry.
+Trademark:           Baskervald is a trademark of ADF.
+Copyright:           Copyright © Arkandis Digital Foundry under the GNU General Public License V2 and later with font exception.
+License URL:         http://www.gnu.org/copyleft/gpl.html
+License Description: The use of this font is granted subject to the GNU General Public License V2 and later with font exception.
+Vendor ID:           ADFP

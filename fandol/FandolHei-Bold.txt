@@ -1,0 +1,13 @@
+Family:              FandolHei
+Subfamily:           Bold
+Full name:           FandolHei Bold
+PostScript name:     FandolHei-Bold
+Version:             Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT
+Unique ID:           1.300;ADBE;FandolHei-Bold
+Description:         Chinese fonts for TeX system.
+Designer:            Clerk Ma, Jie Su
+Manufacturer:        Project Fandol
+Vendor URL:          http://www.ctan.org/tex-archive/fonts/fandol
+Copyright:           Copyright © 2012-2013, the Fandol team.
+License URL:         http://www.gnu.org/licenses/licenses.html
+Vendor ID:           ADBE

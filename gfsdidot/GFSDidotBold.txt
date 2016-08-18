@@ -1,0 +1,16 @@
+Family:              GFS Didot Rg
+Subfamily:           Bold
+Full name:           GFSDidot-Bold
+PostScript name:     GFSDidot-Bold
+Preferred family:    GFS Didot
+Preferred subfamily: Bold
+Mac font menu name:  GFSDidot-Bold
+Version:             Version 1.0 
+Unique ID:           DesignedbyTakisKatsoulidisandGeorgeD.Matthiopoulos.: GFS Didot Bold: 2001
+Designer:            Designed by Takis Katsoulidis and George D. Matthiopoulos.
+Designer URL:        www.greekfontsociety.org
+Manufacturer:        Designed by Takis Katsoulidis and George D. Matthiopoulos.
+Vendor URL:          www.greekfontsociety.org
+Trademark:           GFS Didot Bold is a trademark of Designed by Takis Katsoulidis and George D. Matthiopoulos..
+Copyright:           Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos., 2001. All rights reserved.
+Vendor ID:           Alts

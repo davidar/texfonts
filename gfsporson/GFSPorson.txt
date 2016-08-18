@@ -1,0 +1,14 @@
+Family:              GFS Porson
+Subfamily:           Regular
+Full name:           GFSPorson-Regular
+PostScript name:     GFSPorson-Regular
+Preferred family:    GFS Porson
+Preferred subfamily: Regular
+Version:             OTF 1.000;PS 001.000;Core 1.0.29
+Unique ID:           1.000;pyrs;GFSPorson-Regular
+Designer:            George Matthiopoulos
+Designer URL:        www.greekfontsociety.org
+Vendor URL:          www.greekfontsociety.org
+Trademark:           GFS Porson Regular is a trademark of George Matthiopoulos.
+Copyright:           Copyright (c) Greek Font Society, 1995. All rights reserved.
+Vendor ID:           pyrs

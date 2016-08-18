@@ -1,0 +1,8 @@
+Family:              Emmentaler-26
+Subfamily:           26
+Full name:           Emmentaler-26
+PostScript name:     Emmentaler-26
+Version:             Version 2.18.0 
+Unique ID:           FontForge 2.0 : Emmentaler-26 : 10-1-2014
+Copyright:           This font is distributed under the GNU General Public License. As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License.
+Vendor ID:           PfEd

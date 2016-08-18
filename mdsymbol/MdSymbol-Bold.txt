@@ -1,0 +1,7 @@
+Family:              MdSymbol
+Subfamily:           Bold
+Full name:           MdSymbol Bold
+PostScript name:     MdSymbol-Bold
+Version:             Version 2.000 
+Unique ID:           FontForge 2.0 : MdSymbol Bold : 29-11-2012
+Copyright:           Copyright (c) 2012, Sebastian Schubert. This Font Software is licensed under the SIL Open Font License, Version 1.1.

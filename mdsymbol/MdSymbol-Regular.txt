@@ -1,0 +1,7 @@
+Family:              MdSymbol
+Subfamily:           Regular
+Full name:           MdSymbol Regular
+PostScript name:     MdSymbol-Regular
+Version:             Version 2.000 
+Unique ID:           FontForge 2.0 : MdSymbol Regular : 29-11-2012
+Copyright:           Copyright (c) 2012, Sebastian Schubert. This Font Software is licensed under the SIL Open Font License, Version 1.1.

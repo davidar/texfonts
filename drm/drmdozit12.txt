@@ -1,0 +1,8 @@
+Family:              drmdozit12
+Subfamily:           Regular
+Full name:           drmdozit12
+PostScript name:     drmdozit12
+Version:             Version 001.001 
+Unique ID:           FontForge 2.0 : drmdozit12 : 18-8-2015
+Copyright:           Generated from MetaFont bitmap by mftrace 1.2.18, http://www.xs4all.nl/~hanwen/mftrace/ 
+Vendor ID:           PfEd

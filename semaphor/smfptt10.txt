@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           PersonPillar-Mono
+Full name:           Semafor-PersonPillar-Mono
+PostScript name:     Semafor-PersonPillar-Mono
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-PersonPillar-Mono : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

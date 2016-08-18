@@ -1,0 +1,9 @@
+Family:              XCharter
+Subfamily:           Bold
+Full name:           XCharter Bold
+PostScript name:     XCharter-Bold
+Version:             Version 1.0 
+Unique ID:           FontForge : XCharter Bold : 27-10-2013
+Copyright:           Copyright 1990 as an unpublished work by Bitstream Inc.  All rights reserved. 
+Copyright (c) 2013--2015 Michael Sharpe: Extension of Bitstream Charter Bold
+Vendor ID:           PfEd

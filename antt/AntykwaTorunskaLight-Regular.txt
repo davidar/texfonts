@@ -1,0 +1,11 @@
+Family:              AntykwaTorunska Light
+Subfamily:           Regular
+Full name:           AntykwaTorunskaLight-Regular
+PostScript name:     AntykwaTorunskaLight-Regular
+Preferred family:    Antykwa Torunska
+Preferred subfamily: Light
+Version:             Version 1.011;PS 2.08;Core 1.0.38;makeotf.lib1.6.5960
+Unique ID:           1.011;UKWN;AntykwaTorunskaLight-Regular
+Trademark:           Please refer to the Copyright section for the font trademark attribution notices.
+Copyright:           Copyright 2005 , 2006Design by Zygfryd Gardzielewski. Digitized by Janusz M. Nowacki.
+Vendor ID:           UKWN

@@ -1,0 +1,13 @@
+Family:              FontAwesome
+Subfamily:           Regular
+Full name:           FontAwesome
+PostScript name:     FontAwesome
+Version:             Version 4.6.3 2016
+Unique ID:           FONTLAB:OTFEXPORT
+Designer:            Dave Gandy
+Manufacturer:        Fort Awesome
+Vendor URL:          http://fontawesome.io
+Trademark:           Please refer to the Copyright section for the font trademark attribution notices.
+Copyright:           Copyright Dave Gandy 2016. All rights reserved.
+License URL:         http://fontawesome.io/license/
+Vendor ID:           pyrs

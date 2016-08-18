@@ -1,0 +1,8 @@
+Family:              drmtc11
+Subfamily:           Regular
+Full name:           drmtc11
+PostScript name:     drmtc11
+Version:             Version 001.001 
+Unique ID:           FontForge 2.0 : drmtc11 : 18-8-2015
+Copyright:           Generated from MetaFont bitmap by mftrace 1.2.18, http://www.xs4all.nl/~hanwen/mftrace/ 
+Vendor ID:           PfEd

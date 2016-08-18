@@ -1,0 +1,8 @@
+Family:              Punk Nova
+Subfamily:           Slanted
+Full name:           Punk Nova Slanted
+PostScript name:     PunkNova-Slanted
+Version:             Version 001.003 
+Unique ID:           FontForge 2.0 : Punk Nova Slanted : 22-11-2011
+Copyright:           Unlimited copying and redistribution of this file are permitted as long as this file is not modified. Modifications are permitted, but only if the resulting file is not named 'punknova-slanted.otf' and the (internal) fontname differs from 'Punk Nova'.
+Vendor ID:           PfEd

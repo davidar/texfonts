@@ -1,0 +1,9 @@
+Family:              ztm
+Subfamily:           Med
+Full name:           ztm Medium
+PostScript name:     ztm-Med
+Version:             Version 3.00 
+Unique ID:           FontForge : ztm Medium : 7-1-2016
+Copyright:           Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
+Copyright 2015 by Michael Sharpe, AGPL
+Vendor ID:           PfEd

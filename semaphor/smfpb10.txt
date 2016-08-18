@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           PesonPillar-Bold
+Full name:           Semafor-PesonPillar-Bold
+PostScript name:     Semafor-PesonPillar-Bold
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-PesonPillar-Bold : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

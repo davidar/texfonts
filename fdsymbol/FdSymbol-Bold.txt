@@ -1,0 +1,7 @@
+Family:              FdSymbol
+Subfamily:           Bold
+Full name:           FdSymbol Bold
+PostScript name:     FdSymbol-Bold
+Version:             Version 1.008 
+Unique ID:           FontForge 2.0 : FdSymbol Bold : 27-5-2012
+Copyright:           Copyright (c) 2012, Michael Ummels. This Font Software is licensed under the SIL Open Font License, Version 1.1.

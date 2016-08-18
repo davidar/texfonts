@@ -1,0 +1,21 @@
+Family:              erewhon
+Subfamily:           Bold Italic
+Full name:           Erewhon Bold Italic
+PostScript name:     Erewhon-BoldItalic
+Version:             Version 1.0.0 
+Unique ID:           FontForge : Erewhon Bold Italic : 26-5-2016
+Copyright:           Copyright (c) 1989, 1991 Adobe Systems Incorporated.  All Rights Reserved. Utopia is either a registered trademark or trademark of Adobe Systems Incorporated in the United States and/or other countries. Used under license. The Utopia fonts are freely available; see http://tug.org/fonts/utopia.
+
+Copyright (c) 2008-2012 Andrey V. Panov (panov@canopus.iacp.dvo.ru).
+
+Copyright (c) 2014 Michael Sharpe (msharpe@ucsd.edu).
+
+License Description: 
+Copyright (c) 2008-2012 Andrey V. Panov (panov@canopus.iacp.dvo.ru), 
+with Reserved Font Name Heuristica.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied together with this font package in OFL.txt, 
+and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+Vendor ID:           PfEd

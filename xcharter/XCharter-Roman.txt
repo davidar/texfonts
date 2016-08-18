@@ -1,0 +1,10 @@
+Family:              XCharter
+Subfamily:           Roman
+Full name:           XCharter Roman
+PostScript name:     XCharter-Roman
+Version:             Version 1.0 
+Unique ID:           FontForge : XCharter Roman : 27-10-2013
+Copyright:           Copyright 1990 as an unpublished work by Bitstream Inc.  All rights reserved.  
+Copyright (c) 2013--2015 by Michael Sharpe, based on Bitstream Charter Roman.
+
+Vendor ID:           PfEd

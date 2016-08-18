@@ -1,0 +1,16 @@
+Family:              Baskervaldx
+Subfamily:           Ita
+Full name:           ADFBaskerville-Italic
+PostScript name:     Baskervaldx-Ita
+Version:             Version 1.0
+Unique ID:           FontForge : Baskervaldx Italic : 22-3-2014
+Description:         ADFBaskerville is a  modification of Baskervald
+Designer:            HARENDAL Hirwen
+Designer URL:        http://arkandis.tuxfamily.org
+Manufacturer:        Arkandis Digital Foundry.
+Vendor URL:          http://arkandis.tuxfamily.org
+Trademark:           Baskervald is a trademark of ADF.
+Copyright:           Copyright © Arkandis Digital Foundry under the GNU General Public License V2 and later with font exception.
+License URL:         http://www.gnu.org/copyleft/gpl.html
+License Description: The use of this font is granted subject to the GNU General Public License V2 and later with font exception.
+Vendor ID:           ADFP

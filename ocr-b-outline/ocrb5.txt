@@ -1,0 +1,8 @@
+Family:              ocrb5
+Subfamily:           Regular
+Full name:           ocrb5
+PostScript name:     ocrb5
+Version:             Version 001.001 
+Unique ID:           FontForge : ocrb5 : 6-1-2011
+Copyright:           Generated from MetaFont bitmap by mftrace 1.1.17, http://www.xs4all.nl/~hanwen/mftrace/ 
+Vendor ID:           PfEd

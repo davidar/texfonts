@@ -1,0 +1,10 @@
+Family:              TeX Gyre Bonum Math
+Subfamily:           Regular
+Full name:           TeXGyreBonumMath-Regular
+PostScript name:     TeXGyreBonumMath-Regular
+Preferred family:    TeX Gyre Bonum Math
+Preferred subfamily: Regular
+Version:             Version 1.005
+Unique ID:           1.005
+Trademark:           Please refer to the Copyright section for the font trademark attribution notices.
+Copyright:           Copyright 2013 for Tex Gyre Bonum Math OTF by B. Jackowski, P. Strzelczyk and P. Pianowski (on behalf of TeX users groups). This work is released under the GUST Font License -- see http://tug.org/fonts/licenses/GUST-FONT-LICENSE.txt for details.

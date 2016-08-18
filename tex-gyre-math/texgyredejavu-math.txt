@@ -1,0 +1,12 @@
+Family:              TeX Gyre DejaVu Math
+Subfamily:           Regular
+Full name:           TeXGyreDejaVuMath-Regular
+PostScript name:     TeXGyreDejaVuMath-Regular
+Preferred family:    TeX Gyre DejaVu Math
+Preferred subfamily: Regular
+Version:             Version 1.106
+Unique ID:           1.106
+Vendor URL:          http://www.gust.org.pl/projects/e-foundry
+Trademark:           Please refer to the Copyright section for the font trademark attribution notices.
+Copyright:           Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. DejaVu changes are in public domain, math extensions are in public domain.
+License URL:         http://dejavu-fonts.org/wiki/License

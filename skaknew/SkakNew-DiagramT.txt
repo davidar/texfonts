@@ -1,0 +1,11 @@
+Family:              SkakNew-DiagramT
+Subfamily:           Regular
+Full name:           SkakNew-DiagramT
+PostScript name:     SkakNew-DiagramT
+Preferred family:    SkakNew-Diagram
+Preferred subfamily: Regular
+Mac font menu name:  SkakNew-Diagram
+Version:             Version 1.001 2004 initial release
+Unique ID:           FONTLAB:OTFEXPORT
+Copyright:           Copyright (c) Ulrich Dirr 2004-2009, former designs by Piet Tutelaers, Torben Hoffmann, Dirk Bächle. All rights reserved.
+Vendor ID:           PYRS

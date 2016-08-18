@@ -1,0 +1,14 @@
+Family:              zco
+Subfamily:           Italic
+Full name:           NimbusMono-Oblique
+PostScript name:     zco-Oblique
+Preferred family:    Nimbus Mono
+Preferred subfamily: Regular Oblique
+Mac font menu name:  Nimbus Mono Oblique
+Version:             Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895
+Unique ID:           FontForge : zco Oblique : 7-1-2016
+Designer URL:        http://www.urwpp.com
+Manufacturer:        (URW)++ Design & Development
+Vendor URL:          http://www.urwpp.de
+Copyright:           Copyright 2014 by (URW)++ Design & Development GmbH
+Vendor ID:           URW

@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           NoPillar
+Full name:           Semafor-NoPillar
+PostScript name:     Semafor-NoPillar
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-NoPillar : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

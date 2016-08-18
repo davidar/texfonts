@@ -1,0 +1,12 @@
+Family:              SkakNew-Figurine
+Subfamily:           Bold
+Full name:           SkakNew-Figurine-Bold
+PostScript name:     SkakNew-Figurine-Bold
+Preferred family:    SkakNewFigurine
+Preferred subfamily: Bold
+Mac font menu name:  SkakNewFigurine
+Version:             001.002
+Unique ID:           FONTLAB:OTFEXPORT
+Manufacturer:        Type-1 by usw
+Copyright:           Copyright (c) Ulrich Dirr 2004, former designs by Piet Tutelaers, Torben Hoffmann, Dirk Bächle. All rights reserved.
+Vendor ID:           PYRS

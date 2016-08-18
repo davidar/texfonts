@@ -1,0 +1,12 @@
+Family:              fbb
+Subfamily:           Bold Italic
+Full name:           fbb Bold Italic
+PostScript name:     fbb-BoldItalic
+Version:             Version 0.991
+Unique ID:           FontForge : fbb Bold Italic : 10-12-2015
+Description:         A font based on David Perry's Cardo, intended for general high quality typography.
+Designer:            David J. Perry, Michael Sharpe
+Copyright:           Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net) Copyright (c) Michael Sharpe, 2013-2015
+License URL:         http://scripts.sil.org/OFL
+License Description: This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.
+Vendor ID:           FSFS

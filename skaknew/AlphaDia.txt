@@ -1,0 +1,10 @@
+Family:              Chess Alpha Diagram
+Subfamily:           Regular
+Full name:           ChessAlphaDiagram
+PostScript name:     ChessAlphaDiagram
+Version:             1.000
+Unique ID:           Chess Alpha
+Description:         Copyright (c) 2009 by Ulrich Dirr. All rights reserved.
+Manufacturer:        Ulrich Dirr
+Trademark:           Chess Alpha Diagram is a trademark of Ulrich Dirr.
+Copyright:           Copyright (c) 2009 by Ulrich Dirr. All rights reserved.

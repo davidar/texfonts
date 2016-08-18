@@ -1,0 +1,13 @@
+Family:              fbb
+Subfamily:           Bold
+Full name:           fbb Bold
+PostScript name:     fbb-Bold
+Mac font menu name:  fbb Bold
+Version:             Version 1.045
+Unique ID:           FontForge : fbb Bold : 10-12-2015
+Description:         A font based on David Perry's Cardo, intended for general fine typography.
+Designer:            David J. Perry, Michael Sharpe
+Copyright:           Copyright (c) David J. Perry, 2002-2011. All rights reserved. Copyright (c) Michael Sharpe, 2013-2014.
+License URL:         http://scripts.sil.org/OFL
+License Description: Copyright (c) 2002-2011 by David J. Perry (http://scholarsfonts.net).  Copyright (c) 2013 Michael Sharpe (msharpe@ucsd.edu). This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.
+Vendor ID:           FSFS

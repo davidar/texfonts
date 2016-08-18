@@ -1,0 +1,12 @@
+Family:              Cochineal
+Subfamily:           Roman
+Full name:           Cochineal Roman
+PostScript name:     Cochineal-Roman
+Version:             Version 0.9 
+Unique ID:           FontForge : Cochineal Roman : 25-5-2016
+Copyright:           Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),
+Additions and modifications copyright (c) 2015--16, Michael Sharpe (msharpe@ucsd.edu)
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: http://scripts.sil.org/OFL
+License URL:         http://scripts.sil.org/OFL
+Vendor ID:           PfEd

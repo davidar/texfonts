@@ -1,0 +1,8 @@
+Family:              ztm
+Subfamily:           RegObl
+Full name:           ztm Regular Oblique
+PostScript name:     ztm-RegObl
+Version:             Version 3.00 
+Unique ID:           FontForge : ztm Regular Oblique : 7-1-2016
+Copyright:           Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development. Copyright 2015 by Michael Sharpe, AGPL
+Vendor ID:           PfEd

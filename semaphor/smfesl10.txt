@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           NoPillar-Slant
+Full name:           Semafor-NoPillar-Slant
+PostScript name:     Semafor-NoPillar-Slant
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-NoPillar-Slant : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

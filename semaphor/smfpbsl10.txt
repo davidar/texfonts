@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           PersonPillar-Bold-Slant
+Full name:           Semafor-PersonPillar-Bold-Slant
+PostScript name:     Semafor-PersonPillar-Bold-Slant
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-PersonPillar-Bold-Slant : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

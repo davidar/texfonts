@@ -1,0 +1,18 @@
+Family:              Linux Libertine O
+Subfamily:           Semibold
+Full name:           Linux Libertine O Semibold
+PostScript name:     LinLibertineOZ
+Version:             Version 5.1.2 
+Unique ID:           FontForge 2.0 : Linux Libertine O Semibold : 2-7-2012
+Designer:            Philipp H. Poll
+Designer URL:        http://linuxlibertine.sf.net
+Manufacturer:        Philipp H. Poll
+Vendor URL:          http://linuxlibertine.sf.net
+Copyright:           Linux Libertine by Philipp H. Poll,
+Open Font under Terms of following Free Software Licenses:
+GPL (General Public License) with font-exception and OFL (Open Font License).
+Created with FontForge (http://fontforge.sf.net)
+Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011,2012
+License URL:         http://www.fsf.org/licenses/gpl.html AND http://scripts.sil.org/OFL
+License Description: GPL- General Public License AND OFL-Open Font License
+Vendor ID:           PfEd

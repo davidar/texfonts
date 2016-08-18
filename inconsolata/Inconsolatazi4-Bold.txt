@@ -1,0 +1,12 @@
+Family:              Inconsolatazi4
+Subfamily:           Bold
+Full name:           Inconsolata zi4 Bold
+PostScript name:     Inconsolatazi4-Bold
+Version:             Version 1.015
+Unique ID:           FontForge : Inconsolata zi4 Bold : 19-2-2016
+Designer:            Raph Levien, Kirill Tkachev(cyreal.org)
+Manufacturer:        Raph Levien, Kirill Tkachev(cyreal.org)
+Copyright:           Created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Nine glyphs at end of font file were added using Fontforge and are Copyright (c) 2013--2016 Michael Sharpe. Released under the Apache 2 license.
+License URL:         http://www.apache.org/licenses/LICENSE-2.0.html
+License Description: Copyright 2011 Raph LevienLicensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License at    http://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, softwaredistributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions andlimitations under the License.
+Vendor ID:           PfEd

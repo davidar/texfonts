@@ -1,0 +1,20 @@
+Family:              Tempora
+Subfamily:           Bold
+Full name:           Tempora Bold
+PostScript name:     Tempora-Bold
+Version:             Version 1.0 
+Unique ID:           FontForge : Tempora Bold : 3-2-2016
+Designer:            Alexej Kryukov <alexios@thessalonica.org.ru>
+Copyright:           Typeface Copyright: Michael Sharpe (c) 2015; Alexey Kryukov (C) 2005; (URW)++ Design & Development (C) 1999; Valek Filippov (C) 2001; Dmitry 40in (C) 2001; The Omega Project (C) 1996 v. 1997-02-08; Free Software Foundation (C) 2002, 2003.
+License URL:         http://www.gnu.org/copyleft/gpl.html
+License Description: This font is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+As a special exception, permission is granted to include these font programs in a Postscript or PDF file that consists of a document that contains text to be displayed or printed using these fonts, regardless of the conditions or license applying to the document itself.
+
+This font is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+Sample text:         Est enim oratio actionis exemplar et quasi Ã¡Â¼ÂÃÂÃÂÃ¡Â½Â³ÃÂÃÂÃÂÃÂ¿ÃÂ½.
+Vendor ID:           PfEd

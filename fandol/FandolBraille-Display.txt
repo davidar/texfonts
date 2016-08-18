@@ -1,0 +1,17 @@
+Family:              Fandol Braille Display
+Subfamily:           Regular
+Full name:           Fandol Braille Display
+PostScript name:     FandolBraille-Display
+Preferred family:    Fandol Braille
+Preferred subfamily: Display
+Mac font menu name:  FandolBraille-Regular
+Version:             Version 1.300;PS 001.000;hotconv 1.0.81;makeotf.lib2.5.63406
+Unique ID:           1.300;ADBE;FandolBraille-Display
+Description:         Braille fonts for TeX system.
+Designer:            Clerk Ma, Jie Su
+Manufacturer:        Project Fandol
+Vendor URL:          http://www.ctan.org/tex-archive/fonts/fandol
+Copyright:           Copyright © 2012-2013, the Fandol team.
+License URL:         http://www.gnu.org/licenses/licenses.html
+Sample text:         Fandol 黄尼玛
+Vendor ID:           ADBE

@@ -1,0 +1,17 @@
+Family:              Playfair Display Black
+Subfamily:           Regular
+Full name:           Playfair Display Black
+PostScript name:     PlayfairDisplay-Black
+Preferred family:    Playfair Display
+Preferred subfamily: Black
+Version:             Version 1.004;PS 001.004;hotconv 1.0.70;makeotf.lib2.5.58329
+Unique ID:           1.004;FTH ;PlayfairDisplay-Black
+Designer:            Claus Eggers Sørensen
+Designer URL:        http://www.forthehearts.net
+Manufacturer:        Claus Eggers Sørensen
+Vendor URL:          http://www.forthehearts.net
+Trademark:           Playfair is a trademark of Claus Eggers Sørensen.
+Copyright:           Copyright (c) 2010-2012 by Claus Eggers Sørensen (es@forthehearts.net), with Reserved Font Name 'Playfair'.
+License URL:         http://scripts.sil.org/OFL
+License Description: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL
+Vendor ID:           FTH

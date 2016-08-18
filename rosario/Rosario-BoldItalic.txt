@@ -1,0 +1,16 @@
+Family:              Rosario
+Subfamily:           Bold Italic
+Full name:           Rosario Bold Italic
+PostScript name:     Rosario-BoldItalic
+Version:             Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329
+Unique ID:           1.001;UKWN;Rosario-BoldItalic
+Description:         Copyright (c) 2011, 2015 Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Designer:            Hector Gatti
+Designer URL:        http://www.gattistudio.com.ar
+Manufacturer:        Omnibus Type
+Vendor URL:          http://www.omnibus-type.com
+Trademark:           Rosario Bold is a trademark of Omnibus-Type.
+Copyright:           Copyright (c) 2011, 2015 Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+License URL:         http://scripts.sil.org/OFL
+License Description: This Font Software is licensed under the SIL Open Font License Version 1.1. 
+Vendor ID:           UKWN

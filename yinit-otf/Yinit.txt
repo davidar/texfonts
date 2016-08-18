@@ -1,0 +1,10 @@
+Family:              Yinit
+Subfamily:           Regular
+Full name:           Yinit
+PostScript name:     Yinit
+Preferred family:    Yinit
+Preferred subfamily: Medium
+Version:             Version 1.000
+Unique ID:           FontForge 2.0 : Yinit : 31-3-2016
+Copyright:           Original design in Metafont Copyright (C) Yannis Haralambous,1994, Public Domain
+Vendor ID:           PfEd

@@ -1,0 +1,14 @@
+Family:              NimbusSanL
+Subfamily:           Regular
+Full name:           NimbusSanL-Reg
+PostScript name:     zhv-Reg
+Preferred family:    Nimbus Sans L
+Preferred subfamily: Regular
+Mac font menu name:  NimbusSanLReg
+Version:             Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895
+Unique ID:           FontForge : zhv Regular : 8-1-2016
+Designer URL:        http://www.urwpp.com
+Manufacturer:        (URW)++ Design & Development
+Vendor URL:          http://www.urwpp.de
+Copyright:           Copyright 2014 by (URW)++ Design & Development GmbH
+Vendor ID:           URW

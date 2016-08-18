@@ -1,0 +1,17 @@
+Family:              Fira Sans Thin
+Subfamily:           Regular
+Full name:           Fira Sans Thin
+PostScript name:     FiraSans-Thin
+Preferred family:    Fira Sans
+Preferred subfamily: Thin
+Version:             Version 4.102;PS 004.102;hotconv 1.0.70;makeotf.lib2.5.58329
+Unique ID:           4.102;CTDB;FiraSans-Thin
+Designer:            Carrois Corporate & Edenspiekermann AG
+Designer URL:        http://www.carrois.com
+Manufacturer:        Carrois Corporate GbR & Edenspiekermann AG
+Vendor URL:          http://www.carrois.com
+Trademark:           Fira Sans is a trademark of The Mozilla Corporation.
+Copyright:           Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.
+License URL:         http://scripts.sil.org/OFL
+License Description: Licensed under the Open Font License, version 1.1 or later
+Vendor ID:           CTDB

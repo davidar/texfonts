@@ -1,0 +1,8 @@
+Family:              Emmentaler-Brace
+Subfamily:           Brace
+Full name:           Emmentaler-Brace Regular
+PostScript name:     Emmentaler-Brace
+Version:             Version 2.18.0 
+Unique ID:           FontForge 2.0 : Emmentaler-Brace Regular : 10-1-2014
+Copyright:           GNU GPL
+Vendor ID:           PfEd

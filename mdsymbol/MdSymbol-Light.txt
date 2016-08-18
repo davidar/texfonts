@@ -1,0 +1,7 @@
+Family:              MdSymbol
+Subfamily:           Light
+Full name:           MdSymbol Light
+PostScript name:     MdSymbol-Light
+Version:             Version 2.000 
+Unique ID:           FontForge 2.0 : MdSymbol Light : 29-11-2012
+Copyright:           Copyright (c) 2012, Sebastian Schubert. This Font Software is licensed under the SIL Open Font License, Version 1.1.

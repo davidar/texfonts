@@ -1,0 +1,19 @@
+Family:              Heuristica
+Subfamily:           Bold Italic
+Full name:           Heuristica Bold Italic
+PostScript name:     Heuristica-BoldItalic
+Version:             Version 1.0.2 
+Unique ID:           FontForge 2.0 : Heuristica Bold Italic : 6-6-2014
+Copyright:           Copyright (c) 1989, 1991 Adobe Systems Incorporated.  All Rights Reserved. Utopia is either a registered trademark or trademark of Adobe Systems Incorporated in the United States and/or other countries. Used under license. The Utopia fonts are freely available; see http://tug.org/fonts/utopia.
+
+Copyright (c) 2008-2012 Andrey V. Panov (panov@canopus.iacp.dvo.ru).
+
+License Description: 
+Copyright (c) 2008-2012 Andrey V. Panov (panov@canopus.iacp.dvo.ru), 
+with Reserved Font Name Heuristica.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied together with this font package in OFL.txt, 
+and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+Vendor ID:           PfEd

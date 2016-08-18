@@ -1,0 +1,15 @@
+Family:              MnSymbol
+Subfamily:           Regular
+Full name:           MnSymbol10
+PostScript name:     MnSymbol10
+Preferred subfamily: Regular 10
+Version:             Version 1.001;PS 1.001;hotconv 1.0.49;makeotf.lib2.0.14853
+Unique ID:           1.001;UKWN;MnSymbol10
+Description:         Symbol font for Adobe MinionPro
+Designer:            Achim Blumensath
+Designer URL:        http://www.mathematik.tu-darmstadt.de/~blumensath
+Vendor URL:          http://developer.berlios.de/projects/minionpro/
+Trademark:           public domain
+Copyright:           Design by Achim Blumensath, Conversion to pfb by Michael Zedler. This font is in the public domain.
+License Description: public domain
+Vendor ID:           UKWN

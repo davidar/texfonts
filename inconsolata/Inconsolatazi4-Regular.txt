@@ -1,0 +1,10 @@
+Family:              Inconsolatazi4
+Subfamily:           Regular
+Full name:           Inconsolata zi4r Regular
+PostScript name:     Inconsolatazi4-Regular
+Version:             Version 1.015 
+Unique ID:           FontForge : Inconsolata zi4r Regular : 19-2-2016
+Copyright:           Copyright (c) 2006-2012, Raph Levien (firstname.lastname@gmail.com), Copyright (c) 2011-2012, Cyreal (cyreal.org), Copyright (c) 2013--2016 Michael Sharpe (msharpe@ucsd.edu).
+Licensed under SIL font license.
+
+Vendor ID:           PfEd

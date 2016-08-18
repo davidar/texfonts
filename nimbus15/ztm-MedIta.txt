@@ -1,0 +1,8 @@
+Family:              ztm
+Subfamily:           MedIta
+Full name:           ztm Medium Italic
+PostScript name:     ztm-MedIta
+Version:             Version 3.00 
+Unique ID:           FontForge : ztm Medium Italic : 7-1-2016
+Copyright:           Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development. Copyright 2015 by Michael Sharpe, AGPLv3
+Vendor ID:           PfEd

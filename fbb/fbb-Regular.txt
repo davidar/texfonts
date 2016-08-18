@@ -1,0 +1,13 @@
+Family:              fbb
+Subfamily:           Regular
+Full name:           fbb Regular
+PostScript name:     fbb-Regular
+Mac font menu name:  fbb Regular
+Version:             Version 1.045
+Unique ID:           FontForge : fbb Regular : 9-12-2015
+Description:         A font based on David Perry's Cardo, intended for high quality typography. 
+Designer:            David J. Perry, Michael Sharpe
+Copyright:           Copyright (c) David J. Perry, 2002-2011. All rights reserved. Copyright (c) Michael Sharpe, 2013-2015
+License URL:         http://scripts.sil.org/OFL
+License Description: Copyright (c) 2002-2011 by David J. Perry (http://scholarsfonts.net). Copyright (c)  Michael Sharpe 2013 (msharpe@ucsd.edu).  This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.
+Vendor ID:           FSFS

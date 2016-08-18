@@ -1,0 +1,8 @@
+Family:              Semafor
+Subfamily:           Slant
+Full name:           Semafor-Slant
+PostScript name:     Semafor-Slant
+Version:             Version 2.0 
+Unique ID:           FontForge 2.0 : Semafor-Slant : 28-1-2008
+Copyright:           Vit Zyka, OFL
+Vendor ID:           PfEd

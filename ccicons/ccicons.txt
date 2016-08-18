@@ -1,0 +1,8 @@
+Family:              CCIcons
+Subfamily:           Medium
+Full name:           CCIcons
+PostScript name:     CCIcons
+Version:             Version 1.002 
+Unique ID:           FontForge 2.0 : CCIcons : 17-4-2013
+Copyright:           Created by Michael Ummels, with FontForge (http://fontforge.sf.net).
+Vendor ID:           PfEd

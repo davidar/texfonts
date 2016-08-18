@@ -1,0 +1,8 @@
+Family:              Fetamont
+Subfamily:           Regular8
+Full name:           Fetamont Regular 8
+PostScript name:     Fetamont-Regular8
+Version:             Version 1.5 
+Unique ID:           FontForge 2.0 : Fetamont Regular 8 : 15-5-2015
+Copyright:           Copyright (c) 2014 by Linus Romer. This work is released under the LaTeX project public license. The designs of the letters A, E, F, M, O, P, S and T rely heavily on the original design of the logo font family by Donald E. Knuth. The shapes of the glyphs Y and 1 have been imitated from the METATYPE1 logo.
+Vendor ID:           roli
