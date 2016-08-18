@@ -1,0 +1,17 @@
+Family:              Fira Code Light
+Subfamily:           Regular
+Full name:           FiraCode-Light
+PostScript name:     FiraCode-Light
+Preferred family:    Fira Code
+Preferred subfamily: Light
+Version:             Version 1.200;PS 001.200;hotconv 1.0.88;makeotf.lib2.5.64775
+Unique ID:           1.200;CTDB;FiraCode-Light
+Designer:            Nikita Prokopov
+Designer URL:        http://tonsky.me
+Manufacturer:        Nikita Prokopov
+Vendor URL:          http://tonsky.me
+Trademark:           Fira Mono is a trademark of The Mozilla Corporation.
+Copyright:           Copyright © 2015 by Nikita Prokopov
+License URL:         http://scripts.sil.org/OFL
+License Description: Licensed under the Open Font License, version 1.1 or later
+Vendor ID:           CTDB
