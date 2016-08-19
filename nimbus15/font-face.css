@@ -1,0 +1,18 @@
+@font-face{font-family:"Nimbus Mono";	src:url(zco-Bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Mono";	src:url(zco-BoldOblique.woff);	font-weight:700;	font-stretch:normal;	font-style:oblique}
+@font-face{font-family:"Nimbus Mono";	src:url(zco-Light.woff);	font-weight:300;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Mono";	src:url(zco-LightOblique.woff);	font-weight:300;	font-stretch:normal;	font-style:oblique}
+@font-face{font-family:"Nimbus Mono";	src:url(zco-Oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:oblique}
+@font-face{font-family:"Nimbus Mono";	src:url(zco-Regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Mono Narrow";	src:url(zcoN-Oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:oblique}
+@font-face{font-family:"Nimbus Mono Narrow";	src:url(zcoN-Regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Sans";	src:url(zhv-Bol.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Sans";	src:url(zhv-BolIta.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Nimbus Sans";	src:url(zhv-Reg.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Sans";	src:url(zhv-RegIta.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-Med.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-MedIta.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-MedObl.woff);	font-weight:700;	font-stretch:normal;	font-style:oblique}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-Reg.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-RegIta.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Nimbus Serif";	src:url(ztm-RegObl.woff);	font-weight:400;	font-stretch:normal;	font-style:oblique}

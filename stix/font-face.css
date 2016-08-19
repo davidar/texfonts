@@ -1,0 +1,5 @@
+@font-face{font-family:STIX;	src:url(STIX-Bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:STIX;	src:url(STIX-BoldItalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:STIX;	src:url(STIX-Italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:STIX;	src:url(STIX-Regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"STIX Math";	src:url(STIXMath-Regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}

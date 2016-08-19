@@ -1,0 +1,40 @@
+@font-face{font-family:"Latin Modern Mono";	src:url(lmmono10-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono";	src:url(lmmono10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Caps";	src:url(lmmonocaps10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Caps";	src:url(lmmonocaps10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Light";	src:url(lmmonolt10-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Light";	src:url(lmmonolt10-boldoblique.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Light";	src:url(lmmonolt10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Light";	src:url(lmmonolt10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Light Cond";	src:url(lmmonoltcond10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Light Cond";	src:url(lmmonoltcond10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Prop";	src:url(lmmonoprop10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Prop";	src:url(lmmonoprop10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Prop Light";	src:url(lmmonoproplt10-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Prop Light";	src:url(lmmonoproplt10-boldoblique.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Prop Light";	src:url(lmmonoproplt10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Mono Prop Light";	src:url(lmmonoproplt10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Mono Slanted";	src:url(lmmonoslant10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman";	src:url(lmroman10-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman";	src:url(lmroman10-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Roman";	src:url(lmroman10-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Roman";	src:url(lmroman10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Caps";	src:url(lmromancaps10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Roman Caps";	src:url(lmromancaps10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Demi";	src:url(lmromandemi10-oblique.woff);	font-weight:600;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Roman Demi";	src:url(lmromandemi10-regular.woff);	font-weight:600;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Dunhill";	src:url(lmromandunh10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Roman Dunhill";	src:url(lmromandunh10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Slanted";	src:url(lmromanslant10-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Slanted";	src:url(lmromanslant10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Roman Unslanted";	src:url(lmromanunsl10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Sans";	src:url(lmsans10-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Sans";	src:url(lmsans10-boldoblique.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Sans";	src:url(lmsans10-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Sans";	src:url(lmsans10-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Sans Demi Cond";	src:url(lmsansdemicond10-oblique.woff);	font-weight:600;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Sans Demi Cond";	src:url(lmsansdemicond10-regular.woff);	font-weight:600;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Sans Quotation";	src:url(lmsansquot8-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"Latin Modern Sans Quotation";	src:url(lmsansquot8-boldoblique.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Sans Quotation";	src:url(lmsansquot8-oblique.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"Latin Modern Sans Quotation";	src:url(lmsansquot8-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}

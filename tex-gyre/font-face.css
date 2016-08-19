@@ -1,0 +1,33 @@
+@font-face{font-family:"TeX Gyre Adventor";	src:url(texgyreadventor-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Adventor";	src:url(texgyreadventor-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Adventor";	src:url(texgyreadventor-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Adventor";	src:url(texgyreadventor-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Bonum";	src:url(texgyrebonum-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Bonum";	src:url(texgyrebonum-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Bonum";	src:url(texgyrebonum-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Bonum";	src:url(texgyrebonum-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Chorus";	src:url(texgyrechorus-mediumitalic.woff);	font-weight:500;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Cursor";	src:url(texgyrecursor-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Cursor";	src:url(texgyrecursor-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Cursor";	src:url(texgyrecursor-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Cursor";	src:url(texgyrecursor-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Heros";	src:url(texgyreheros-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Heros";	src:url(texgyreheros-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Heros";	src:url(texgyreheros-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Heros";	src:url(texgyreheros-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Heros Cn";	src:url(texgyreheroscn-bold.woff);	font-weight:700;	font-stretch:condensed;	font-style:normal}
+@font-face{font-family:"TeX Gyre Heros Cn";	src:url(texgyreheroscn-bolditalic.woff);	font-weight:700;	font-stretch:condensed;	font-style:italic}
+@font-face{font-family:"TeX Gyre Heros Cn";	src:url(texgyreheroscn-italic.woff);	font-weight:400;	font-stretch:condensed;	font-style:italic}
+@font-face{font-family:"TeX Gyre Heros Cn";	src:url(texgyreheroscn-regular.woff);	font-weight:400;	font-stretch:condensed;	font-style:normal}
+@font-face{font-family:"TeX Gyre Pagella";	src:url(texgyrepagella-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Pagella";	src:url(texgyrepagella-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Pagella";	src:url(texgyrepagella-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Pagella";	src:url(texgyrepagella-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Schola";	src:url(texgyreschola-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Schola";	src:url(texgyreschola-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Schola";	src:url(texgyreschola-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Schola";	src:url(texgyreschola-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Termes";	src:url(texgyretermes-bold.woff);	font-weight:700;	font-stretch:normal;	font-style:normal}
+@font-face{font-family:"TeX Gyre Termes";	src:url(texgyretermes-bolditalic.woff);	font-weight:700;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Termes";	src:url(texgyretermes-italic.woff);	font-weight:400;	font-stretch:normal;	font-style:italic}
+@font-face{font-family:"TeX Gyre Termes";	src:url(texgyretermes-regular.woff);	font-weight:400;	font-stretch:normal;	font-style:normal}
