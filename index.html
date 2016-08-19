@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TeX fonts</title>
+<meta charset="utf-8">
+<style>
+@import "almfixed/font-face.css";
+@import "antt/font-face.css";
+@import "Asana-Math/font-face.css";
+@import "baskervaldx/font-face.css";
+@import "ccicons/font-face.css";
+@import "chivo/font-face.css";
+@import "cochineal/font-face.css";
+@import "cyklop/font-face.css";
+@import "dantelogo/font-face.css";
+@import "ebgaramond/font-face.css";
+@import "erewhon/font-face.css";
+@import "fandol/font-face.css";
+@import "fbb/font-face.css";
+@import "fdsymbol/font-face.css";
+@import "fetamont/font-face.css";
+@import "fira/font-face.css";
+@import "fonts-churchslavonic/font-face.css";
+@import "gfsartemisia/font-face.css";
+@import "gfsbaskerville/font-face.css";
+@import "gfsbodoni/font-face.css";
+@import "gfscomplutum/font-face.css";
+@import "gfsdidot/font-face.css";
+@import "gfsneohellenic/font-face.css";
+@import "gfsporson/font-face.css";
+@import "gfssolomos/font-face.css";
+@import "gnu-freefont/font-face.css";
+@import "heuristica/font-face.css";
+@import "inconsolata/font-face.css";
+@import "libertine/font-face.css";
+@import "libertinus/font-face.css";
+@import "lilyglyphs/font-face.css";
+@import "lm/font-face.css";
+@import "lm-math/font-face.css";
+@import "mdsymbol/font-face.css";
+@import "miama/font-face.css";
+@import "mnsymbol/font-face.css";
+@import "newpx/font-face.css";
+@import "nimbus15/font-face.css";
+@import "oldstandard/font-face.css";
+@import "philokalia/font-face.css";
+@import "playfair/font-face.css";
+@import "punknova/font-face.css";
+@import "rosario/font-face.css";
+@import "semaphor/font-face.css";
+@import "skaknew/font-face.css";
+@import "stix/font-face.css";
+@import "tempora/font-face.css";
+@import "tex-gyre/font-face.css";
+@import "tex-gyre-math/font-face.css";
+@import "umtypewriter/font-face.css";
+@import "xcharter/font-face.css";
+@import "xits/font-face.css";
+@import "yinit-otf/font-face.css";
+
+body {
+    margin: 3em 15%;
+}
+pre, input, select {
+    font-family: "Fira Code";
+    font-size: 16pt;
+}
+input {
+    border: none;
+    width: 4em;
+}
+#proof {
+    font-family: "Latin Modern Roman";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 32pt;
+}
+</style>
+<script>
+function update () {
+    var proof = document.getElementById('proof')
+    proof.style.fontFamily  = document.getElementById('family').value
+    proof.style.fontWeight  = document.getElementById('weight').value
+    proof.style.fontStyle   = document.getElementById('style').value
+    proof.style.fontStretch = document.getElementById('stretch').value
+    proof.style.fontSize    = document.getElementById('size').value + 'pt'
+
+    if (proof.style.fontFamily === 'CCIcons') {
+        proof.textContent = 'abcd'
+    } else if (proof.style.fontFamily === 'Chess Alpha Diagram' ||
+               proof.style.fontFamily.startsWith('SkakNew')) {
+        proof.textContent = 'KkQq'
+    } else if (proof.style.fontFamily === 'Emmentaler-Brace') {
+        proof.textContent = '\ue100 \ue150 \ue200 \ue250 \ue300'
+    } else if (proof.style.fontFamily.startsWith('Emmentaler')) {
+        proof.textContent = '\ue10d \ue10f \ue11b \ue173'
+    } else if (proof.style.fontFamily.startsWith('Fandol Braille')) {
+        proof.textContent = '\u2820\u281E\u2813\u2811\u2800\u281F\u2825\u280A\u2809\u2805\u2800\u2803\u2817\u2815\u283A\u281D\u2800\u280B\u2815\u282D\u2800 ' +
+                            '\u281A\u2825\u280D\u280F\u280E\u2800\u2815\u2827\u2811\u2817\u2800\u281E\u2813\u2811\u2800\u2807\u2801\u2835\u283D\u2800\u2819\u2815\u281B'
+    } else if (proof.style.fontFamily === 'FdSymbol' ||
+               proof.style.fontFamily === 'MdSymbol' ||
+               proof.style.fontFamily.startsWith('MnSymbol')) {
+        proof.textContent = '\u0020\u282B\u002F\u003C\u005B\u007B\u00AC\u00B1\u00D7\u00F7 ' +
+                            '\u0302\u0311\u0335\u0337\u2016\u2022\u2032\u2035\u2050\u20D7 ' +
+                            '\u2118\u2132\u2135\u2141\u2190\u21A9\u21BA\u21E0\u21F5\u2200 ' +
+                            '\u2203\u2208\u220B\u220F\u221A\u221D\u223A\u223C\u2240\u2260 ' +
+                            '\u2264\u228D\u22B2\u22BA\u22BE\u22C0\u22D6\u22DE\u2308\u2310 ' +
+                            '\u2314\u2319\u231C\u2322\u234A\u2351\u239B\u23B7\u25A0\u25AA ' +
+                            '\u25B2\u25BC\u25C6\u25CA\u25CF\u25E6\u25EB\u25EF\u2605\u2660 ' +
+                            '\u2665\u266D\u2713\u2720\u27C2\u27C7\u27D0\u27D3\u27DC\u27E0 ' +
+                            '\u27E6\u27F2\u27F5\u2906\u290A\u2921\u2933\u294A\u296E\u2980 ' +
+                            '\u2991\u299B\u29A0\u29A3\u29B0\u29B6\u29B8\u29C4\u29C8\u29D6 ' +
+                            '\u29DF\u29EB\u2A00\u2A11\u2A25\u2A2A\u2A30\u2A3C\u2A3F\u2A4E ' +
+                            '\u2A55\u2A5E\u2A63\u2A66\u2A7D\u2A85\u2A95\u2AA6\u2AAE\u2AC5 ' +
+                            '\u2ACB\u2ADE\u2AE2\u2AE7\u2AEA\u2AEF\u2B1B\u2B24\u2B29\u2B33'
+    } else if (proof.style.fontFamily === 'Fira Code') {
+        proof.textContent = '=/= >>= ~> 0xF 9:45 m-x *ptr www'
+    } else if (proof.style.fontFamily === 'GFS Baskerville') {
+        proof.textContent = '0123456789'
+    } else if (proof.style.fontFamily === 'GFS Complutum' ||
+               proof.style.fontFamily === 'GFS Olga' ||
+               proof.style.fontFamily === 'GFS Porson' ||
+               proof.style.fontFamily === 'GFS Solomos' ||
+               proof.style.fontFamily === 'Philokalia') {
+        proof.textContent = 'Ταχίστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός'
+    } else if (proof.style.fontFamily === 'Libertinus Serif Initials' ||
+               proof.style.fontFamily === 'Linux Libertine Initials' ||
+               proof.style.fontFamily === 'Yinit') {
+        proof.textContent = 'SAMPLE'
+    } else {
+        proof.textContent = 'The Quick brown fox jumps over the lazy dog'
+    }
+}
+</script>
+</head>
+<body onload="update()">
+<pre>
+<em>#proof</em> {
+    <strong>font-family:</strong>  <select id="family" name="family" onchange="update()">
+        <option value="ALM Fixed">ALM Fixed</option>
+        <option value="Antykwa Torunska">Antykwa Torunska</option>
+        <option value="Antykwa Torunska Condensed">Antykwa Torunska Condensed</option>
+        <option value="Asana Math">Asana Math</option>
+        <option value="Baskervaldx">Baskervaldx</option>
+        <option value="CCIcons">CCIcons</option>
+        <option value="Chess Alpha Diagram">Chess Alpha Diagram</option>
+        <option value="Chivo">Chivo</option>
+        <option value="Cochineal">Cochineal</option>
+        <option value="Cyklop">Cyklop</option>
+        <option value="DANTE">DANTE</option>
+        <option value="EB Garamond">EB Garamond</option>
+        <option value="Emmentaler-11">Emmentaler-11</option>
+        <option value="Emmentaler-13">Emmentaler-13</option>
+        <option value="Emmentaler-14">Emmentaler-14</option>
+        <option value="Emmentaler-16">Emmentaler-16</option>
+        <option value="Emmentaler-18">Emmentaler-18</option>
+        <option value="Emmentaler-20">Emmentaler-20</option>
+        <option value="Emmentaler-23">Emmentaler-23</option>
+        <option value="Emmentaler-26">Emmentaler-26</option>
+        <option value="Emmentaler-Brace">Emmentaler-Brace</option>
+        <option value="erewhon">erewhon</option>
+        <option value="Fandol Braille Display">Fandol Braille Display</option>
+        <option value="Fandol Braille">Fandol Braille</option>
+        <option value="FandolFang">FandolFang</option>
+        <option value="FandolHei">FandolHei</option>
+        <option value="FandolKai">FandolKai</option>
+        <option value="FandolSong">FandolSong</option>
+        <option value="fbb">fbb</option>
+        <option value="FdSymbol">FdSymbol</option>
+        <option value="Fedorovsk Unicode">Fedorovsk Unicode</option>
+        <option value="Fetamont">Fetamont</option>
+        <option value="Fetamont Script">Fetamont Script</option>
+        <option value="Fira Code">Fira Code</option>
+        <option value="Fira Mono">Fira Mono</option>
+        <option value="Fira Sans">Fira Sans</option>
+        <option value="FreeMono">FreeMono</option>
+        <option value="FreeSans">FreeSans</option>
+        <option value="FreeSerif">FreeSerif</option>
+        <option value="GFS Artemisia">GFS Artemisia</option>
+        <option value="GFS Baskerville">GFS Baskerville</option>
+        <option value="GFS Bodoni">GFS Bodoni</option>
+        <option value="GFS Complutum">GFS Complutum</option>
+        <option value="GFS Didot">GFS Didot</option>
+        <option value="GFS Neohellenic">GFS Neohellenic</option>
+        <option value="GFS Olga">GFS Olga</option>
+        <option value="GFS Porson">GFS Porson</option>
+        <option value="GFS Solomos">GFS Solomos</option>
+        <option value="Heuristica">Heuristica</option>
+        <option value="Inconsolatazi4">Inconsolatazi4</option>
+        <option value="Latin Modern Math">Latin Modern Math</option>
+        <option value="Latin Modern Mono Caps">Latin Modern Mono Caps</option>
+        <option value="Latin Modern Mono">Latin Modern Mono</option>
+        <option value="Latin Modern Mono Light Cond">Latin Modern Mono Light Cond</option>
+        <option value="Latin Modern Mono Light">Latin Modern Mono Light</option>
+        <option value="Latin Modern Mono Prop">Latin Modern Mono Prop</option>
+        <option value="Latin Modern Mono Prop Light">Latin Modern Mono Prop Light</option>
+        <option value="Latin Modern Mono Slanted">Latin Modern Mono Slanted</option>
+        <option value="Latin Modern Roman Caps">Latin Modern Roman Caps</option>
+        <option value="Latin Modern Roman Demi">Latin Modern Roman Demi</option>
+        <option value="Latin Modern Roman Dunhill">Latin Modern Roman Dunhill</option>
+        <option value="Latin Modern Roman" selected>Latin Modern Roman</option>
+        <option value="Latin Modern Roman Slanted">Latin Modern Roman Slanted</option>
+        <option value="Latin Modern Roman Unslanted">Latin Modern Roman Unslanted</option>
+        <option value="Latin Modern Sans Demi Cond">Latin Modern Sans Demi Cond</option>
+        <option value="Latin Modern Sans">Latin Modern Sans</option>
+        <option value="Latin Modern Sans Quotation">Latin Modern Sans Quotation</option>
+        <option value="Libertinus Keyboard">Libertinus Keyboard</option>
+        <option value="Libertinus Math">Libertinus Math</option>
+        <option value="Libertinus Mono">Libertinus Mono</option>
+        <option value="Libertinus Sans">Libertinus Sans</option>
+        <option value="Libertinus Serif Display">Libertinus Serif Display</option>
+        <option value="Libertinus Serif Initials">Libertinus Serif Initials</option>
+        <option value="Libertinus Serif">Libertinus Serif</option>
+        <option value="Linux Biolinum Keyboard">Linux Biolinum Keyboard</option>
+        <option value="Linux Biolinum">Linux Biolinum</option>
+        <option value="Linux Libertine Display">Linux Libertine Display</option>
+        <option value="Linux Libertine Initials">Linux Libertine Initials</option>
+        <option value="Linux Libertine">Linux Libertine</option>
+        <option value="Linux Libertine Mono">Linux Libertine Mono</option>
+        <option value="MdSymbol">MdSymbol</option>
+        <option value="Menaion Unicode">Menaion Unicode</option>
+        <option value="Miama Nueva">Miama Nueva</option>
+        <option value="MnSymbol10">MnSymbol10</option>
+        <option value="MnSymbol12">MnSymbol12</option>
+        <option value="MnSymbol5">MnSymbol5</option>
+        <option value="MnSymbol6">MnSymbol6</option>
+        <option value="MnSymbol7">MnSymbol7</option>
+        <option value="MnSymbol8">MnSymbol8</option>
+        <option value="MnSymbol9">MnSymbol9</option>
+        <option value="Nimbus Mono Narrow">Nimbus Mono Narrow</option>
+        <option value="Nimbus Mono">Nimbus Mono</option>
+        <option value="Nimbus Sans">Nimbus Sans</option>
+        <option value="Nimbus Serif">Nimbus Serif</option>
+        <option value="Old Standard">Old Standard</option>
+        <option value="Philokalia">Philokalia</option>
+        <option value="Playfair Display">Playfair Display</option>
+        <option value="Pomorsky">Pomorsky</option>
+        <option value="Ponomar Unicode">Ponomar Unicode</option>
+        <option value="Punk Nova">Punk Nova</option>
+        <option value="Rosario">Rosario</option>
+        <option value="Semafor Empty Mono">Semafor Empty Mono</option>
+        <option value="Semafor Empty">Semafor Empty</option>
+        <option value="Semafor Mono">Semafor Mono</option>
+        <option value="Semafor Person Mono">Semafor Person Mono</option>
+        <option value="Semafor Person">Semafor Person</option>
+        <option value="Semafor">Semafor</option>
+        <option value="SkakNew-Diagram">SkakNew-Diagram</option>
+        <option value="SkakNew-DiagramT">SkakNew-DiagramT</option>
+        <option value="SkakNew-Figurine">SkakNew-Figurine</option>
+        <option value="STIX Math">STIX Math</option>
+        <option value="STIX">STIX</option>
+        <option value="Tempora">Tempora</option>
+        <option value="TeX Gyre Adventor">TeX Gyre Adventor</option>
+        <option value="TeX Gyre Bonum Math">TeX Gyre Bonum Math</option>
+        <option value="TeX Gyre Bonum">TeX Gyre Bonum</option>
+        <option value="TeX Gyre Chorus">TeX Gyre Chorus</option>
+        <option value="TeX Gyre Cursor">TeX Gyre Cursor</option>
+        <option value="TeX Gyre DejaVu Math">TeX Gyre DejaVu Math</option>
+        <option value="TeX Gyre Heros Cn">TeX Gyre Heros Cn</option>
+        <option value="TeX Gyre Heros">TeX Gyre Heros</option>
+        <option value="TeX Gyre Pagella Math">TeX Gyre Pagella Math</option>
+        <option value="TeX Gyre Pagella">TeX Gyre Pagella</option>
+        <option value="TeX Gyre PagellaX">TeX Gyre PagellaX</option>
+        <option value="TeX Gyre Schola Math">TeX Gyre Schola Math</option>
+        <option value="TeX Gyre Schola">TeX Gyre Schola</option>
+        <option value="TeX Gyre Termes Math">TeX Gyre Termes Math</option>
+        <option value="TeX Gyre Termes">TeX Gyre Termes</option>
+        <option value="UM Typewriter">UM Typewriter</option>
+        <option value="XCharter">XCharter</option>
+        <option value="XITS Math">XITS Math</option>
+        <option value="XITS">XITS</option>
+        <option value="Yinit">Yinit</option>
+        </select>;
+    <strong>font-weight:</strong>  <input id="weight" name="weight" type="number" value="400" step="100" onchange="update()">;
+    <strong>font-style:</strong>   <select id="style" name="style" onchange="update()">
+        <option value="normal" selected>normal</option>
+        <option value="italic">italic</option>
+        <option value="oblique">oblique</option>
+        </select>;
+    <strong>font-stretch:</strong> <select id="stretch" name="stretch" onchange="update()">
+        <option value="ultra-condensed">ultra-condensed</option>
+        <option value="extra-condensed">extra-condensed</option>
+        <option value="condensed">condensed</option>
+        <option value="semi-condensed">semi-condensed</option>
+        <option value="normal" selected>normal</option>
+        <option value="semi-expanded">semi-expanded</option>
+        <option value="expanded">expanded</option>
+        <option value="extra-expanded">extra-expanded</option>
+        <option value="ultra-expanded">ultra-expanded</option>
+        </select>;
+    <strong>font-size:</strong>    <input id="size" name="size" type="number" value="32" onchange="update()">pt;
+}
+</pre>
+<div id="proof">The Quick brown fox jumps over the lazy dog</div>
+</body>
+</html>
