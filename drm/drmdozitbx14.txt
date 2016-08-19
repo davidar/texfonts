@@ -1,8 +1,0 @@
-Family:              drmdozitbx14
-Subfamily:           Regular
-Full name:           drmdozitbx14
-PostScript name:     drmdozitbx14
-Version:             Version 001.001 
-Unique ID:           FontForge 2.0 : drmdozitbx14 : 18-8-2015
-Copyright:           Generated from MetaFont bitmap by mftrace 1.2.18, http://www.xs4all.nl/~hanwen/mftrace/ 
-Vendor ID:           PfEd

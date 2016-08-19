@@ -1,8 +1,0 @@
-Family:              drmui24
-Subfamily:           Regular
-Full name:           drmui24
-PostScript name:     drmui24
-Version:             Version 001.001 
-Unique ID:           FontForge 2.0 : drmui24 : 18-8-2015
-Copyright:           Generated from MetaFont bitmap by mftrace 1.2.18, http://www.xs4all.nl/~hanwen/mftrace/ 
-Vendor ID:           PfEd
