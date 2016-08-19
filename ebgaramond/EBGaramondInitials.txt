@@ -1,8 +1,0 @@
-Family:              EB Garamond Initials
-Subfamily:           Regular
-Full name:           EB Garamond Initials
-PostScript name:     EBGaramondInitials
-Version:             Version 0.016+ 
-Unique ID:           Sorts Mill Tools 2.1.0_alpha1 : EB Garamond Initials : 24-4-2014
-Copyright:           Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)
-Vendor ID:           PfEd
