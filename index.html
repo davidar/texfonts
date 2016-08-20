@@ -20,6 +20,7 @@
 @import "fdsymbol/font-face.css";
 @import "fetamont/font-face.css";
 @import "fira/font-face.css";
+@import "fontawesome/font-face.css";
 @import "fonts-churchslavonic/font-face.css";
 @import "gfsartemisia/font-face.css";
 @import "gfsbaskerville/font-face.css";
@@ -116,6 +117,11 @@ function update () {
                             '\u2ACB\u2ADE\u2AE2\u2AE7\u2AEA\u2AEF\u2B1B\u2B24\u2B29\u2B33'
     } else if (proof.style.fontFamily === 'Fira Code') {
         proof.textContent = '=/= >>= ~> 0xF 9:45 m-x *ptr www'
+    } else if (proof.style.fontFamily === 'FontAwesome') {
+        proof.textContent = '\uF000\uF010\uF021\uF040\uF050\uF060\uF070\uF080\uF090\uF0A0 ' +
+                            '\uF0B0\uF0C0\uF0D0\uF0E0\uF0F0\uF100\uF110\uF120\uF130\uF140 ' +
+                            '\uF150\uF160\uF170\uF180\uF190\uF1A0\uF1B0\uF1C0\uF1D0\uF1E0 ' +
+                            '\uF1F0\uF200\uF210\uF221\uF240\uF250\uF260\uF270\uF280\uF290'
     } else if (proof.style.fontFamily === 'GFS Baskerville') {
         proof.textContent = '0123456789'
     } else if (proof.style.fontFamily === 'GFS Complutum' ||
@@ -174,6 +180,7 @@ function update () {
         <option value="Fira Code">Fira Code</option>
         <option value="Fira Mono">Fira Mono</option>
         <option value="Fira Sans">Fira Sans</option>
+        <option value="FontAwesome">FontAwesome</option>
         <option value="FreeMono">FreeMono</option>
         <option value="FreeSans">FreeSans</option>
         <option value="FreeSerif">FreeSerif</option>
