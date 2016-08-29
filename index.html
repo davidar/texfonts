@@ -38,6 +38,7 @@
 @import "lilyglyphs/font-face.css";
 @import "lm/font-face.css";
 @import "lm-math/font-face.css";
+@import "MathJax/font-face.css";
 @import "mdsymbol/font-face.css";
 @import "miama/font-face.css";
 @import "mnsymbol/font-face.css";
@@ -130,9 +131,12 @@ function update () {
                proof.style.fontFamily === 'GFS Solomos' ||
                proof.style.fontFamily === 'Philokalia') {
         proof.textContent = 'Ταχίστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός'
+    } else if (proof.style.fontFamily.startsWith('MathJax_Size')) {
+        proof.textContent = '\u2016\u2191\u2193\u21D1\u21D3\u220F\u221A\u2223\u2225\u222B'
     } else if (proof.style.fontFamily === 'Libertinus Serif Initials' ||
                proof.style.fontFamily === 'Linux Libertine Initials' ||
-               proof.style.fontFamily === 'Yinit') {
+               proof.style.fontFamily === 'Yinit' ||
+               proof.style.fontFamily.startsWith('MathJax_')) {
         proof.textContent = 'SAMPLE'
     } else {
         proof.textContent = 'The Quick brown fox jumps over the lazy dog'
@@ -225,6 +229,18 @@ function update () {
         <option value="Linux Libertine Initials">Linux Libertine Initials</option>
         <option value="Linux Libertine">Linux Libertine</option>
         <option value="Linux Libertine Mono">Linux Libertine Mono</option>
+        <option value="MathJax_AMS">MathJax_AMS</option>
+        <option value="MathJax_Caligraphic">MathJax_Caligraphic</option>
+        <option value="MathJax_Fraktur">MathJax_Fraktur</option>
+        <option value="MathJax_Main">MathJax_Main</option>
+        <option value="MathJax_Math">MathJax_Math</option>
+        <option value="MathJax_SansSerif">MathJax_SansSerif</option>
+        <option value="MathJax_Script">MathJax_Script</option>
+        <option value="MathJax_Size1">MathJax_Size1</option>
+        <option value="MathJax_Size2">MathJax_Size2</option>
+        <option value="MathJax_Size3">MathJax_Size3</option>
+        <option value="MathJax_Size4">MathJax_Size4</option>
+        <option value="MathJax_Typewriter">MathJax_Typewriter</option>
         <option value="MdSymbol">MdSymbol</option>
         <option value="Menaion Unicode">Menaion Unicode</option>
         <option value="Miama Nueva">Miama Nueva</option>
